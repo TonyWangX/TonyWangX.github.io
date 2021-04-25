@@ -1,0 +1,49 @@
+.. temp documentation master file, created by
+   sphinx-quickstart on Sun Aug 30 20:18:34 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome
+*******
+I am Xin Wang, a postdoc researcher at Yamagishi Lab, National Institute of Informatics (`NII <https://www.nii.ac.jp/>`_), Japan. 
+
+I am studying speech processing and machine learning, and I learned a lot from my supervisors at NII and USTC and many colleagues around the world.
+
+My `Researchmap site <https://researchmap.jp/wangxin?lang=en>`_ and `Google Scholar page <https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en>`_. Researchmap is the official website for researchers in Japan to upload research outcomes.
+
+Here is my :ref:`label-resume`.
+
+
+Messages
+========
+*2020.08.30* 
+
+Repositories from my personal git account have been moved to https://github.com/nii-yamagishilab, including:
+
+       1. CURRENNT and related source codes: https://github.com/nii-yamagishilab/project-CURRENNT-public
+
+       2. CURRENNT scripts for model training: https://github.com/nii-yamagishilab/project-CURRENNT-scripts
+
+
+*2020.08.20* 
+
+Tutorial materials on Pytorch NSF models are `uploaded <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. They are based on Jupyter notebooks and can be run on laptop with CPU;
+
+
+*2020.06.31* 
+
+Pytorch re-implementation of NSF models is available: https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts
+
+
+Contact
+=======
+Please send email to wangxin ~a~t~ nii dot ac dot jp. 
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
+   self
+   resume
+   Research work <research>
+   Talk & slides <slide>

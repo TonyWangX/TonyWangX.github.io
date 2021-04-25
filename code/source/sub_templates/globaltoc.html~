@@ -1,0 +1,3 @@
+<h3><a href="{{ pathto(master_doc) }}">{{ _('Site map') }}</a></h3>
+   {{ toc|replace("<ul>", "<ul class=\"custom\">", 1) }}
+{%- endif %}

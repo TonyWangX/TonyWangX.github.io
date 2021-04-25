@@ -1,0 +1,66 @@
+.. temp documentation master file, created by
+   sphinx-quickstart on Sun Aug 30 20:18:34 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome
+*******
+I am Xin Wang, a postdoc researcher at Yamagishi Lab, National Institute of Informatics (`NII <https://www.nii.ac.jp/>`_), Japan. 
+
+I am studying speech processing and machine learning, and I learned a lot from my supervisors at NII and USTC and many colleagues around the world.
+
+My `Researchmap site <https://researchmap.jp/wangxin?lang=en>`_ and `Google Scholar page <https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en>`_. Researchmap is the official website for researchers in Japan to upload research outcomes.
+
+Here is my :ref:`label-resume`.
+
+
+Messages
+========
+*2021.04.01*
+
+Pytorch project is updated https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts:
+
+       1. Accumulated commits over the last year
+	  
+       2. Projects on ASVspoof: many pre-trained models and training recipes
+
+
+*2020.10.27*
+
+New slides have been uploaded:
+       
+       1. Interspeech 2020 presentation for Cyclic-noise NSF: `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAMoAEj77_oy4FmG0rkCTWwa/web/2020-interspech.pptx?raw=1>`_ and `PDF slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD0BZlZh4TexeLs3VQVY0kJa/web/2020-interspech.pdf?raw=1>`_ 
+	 
+       2. Odyssey tutorial presentation: `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_
+
+*2020.08.30* 
+
+Repositories from my personal git account have been moved to https://github.com/nii-yamagishilab, including:
+
+       1. CURRENNT and related source codes: https://github.com/nii-yamagishilab/project-CURRENNT-public
+
+       2. CURRENNT scripts for model training: https://github.com/nii-yamagishilab/project-CURRENNT-scripts
+
+
+*2020.08.20* 
+
+Tutorial materials on Pytorch NSF models are `uploaded <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. They are based on Jupyter notebooks and can be run on laptop with CPU;
+
+
+*2020.06.31* 
+
+Pytorch re-implementation of NSF models is available: https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts
+
+
+Contact
+=======
+Please send email to wangxin ~a~t~ nii dot ac dot jp. 
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
+   self
+   resume
+   Research work <research>
+   Talk & slides <slide>
