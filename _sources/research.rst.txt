@@ -41,7 +41,9 @@ A large scale database with bona fide (real) and spoofing (fake) audios from man
 
 * `Description on the database <https://arxiv.org/abs/1911.01601>`_
 
-Sppofing countermeasures
+* `Audio samples for the LA subset <https://nii-yamagishilab.github.io/samples-xin/main-asvspoof2019.html>`_
+  
+Spoofing countermeasures
 ========================
 .. image:: pic/fig_eer_table.png
   :height: 200
