@@ -50,7 +50,9 @@ Spoofing countermeasures
 
 A comparison of recent neural spoofing countermeasures on ASVspoof2019 LA database. Pre-trained models and training recipes are available:
 
-* `github link <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts>`_
+* `github link <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts>`_. Check project/03-asvspoof-mega
+
+* Interspeech 2021 presentation `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAbQM0rKGea4t5i5m6rn_F_a/web/2021-interspeech-Fri-M-V-7-1.pdf?raw=1>`_
 
 |
 |

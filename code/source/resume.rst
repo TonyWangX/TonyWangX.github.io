@@ -55,6 +55,7 @@ Academic activity
 
 Organizer
 
+ * `ASVspoof <https://www.asvspoof.org/>`_ 2021, 2019
  * ISCA Interspeech 2020 `special session on voice privacy <https://www.voiceprivacychallenge.org>`_ 
  * APSIPA ASC 2019 special session on `Deep Generative Models for Media Clones and Its Detection <http://apsipa2019.org/SpecialSessions.html>`_
  * ISCA Interspeech 2019 special session on `Automatic Speaker Verification Spoofing and Countermeasures Challenge 2019 (ASVSpoof 2019) <https://www.interspeech2019.org/program/special_sessions_and_challenges>`_
@@ -76,6 +77,9 @@ Reviewer
 
 Grants
 ======
+
+* 2021 - 2023, Speech privacy protection by high-quality, invertible, and extendable speech anonymization and de-anonymization, JSPS, Wakate, 21K17775, investigator: Xin Wang
+
 * 2020 - 2021, Deep-learning-based neural source-filtering models for fast and high-quality music signal generation, KAWAI, investigator: Xin Wang
 
 * 2019 - 2021, One model for all sounds: fast and high-quality neural source-filter model for speech and non-speech waveform modeling, JSPS, grant-for-startup, 19K24371, investigator: Xin Wang
@@ -113,6 +117,14 @@ Journal
 
 
 Conference 
+
+#. **Xin Wang**, Junich Yamagishi. Comparative Study on Recent Neural Spoofing Countermeasures for Synthetic Speech Detection. In Proc. Interspeech, (accepted) 2021.
+
+#. Lin Zhang, **Xin Wang**, Erica Cooper, Junichi Yamagishi, Jose Patino and Nicholas Evans, An Initial Investigation for Detecting Partially Spoofed Audio. In Proc. Interspeech, (accepted) 2021.
+
+#. Tomi Kinnunen, Andreas Nautsch, Md. Sahidullah, Nicholas Evans, **Xin Wang**, Massimiliano Todisco, Héctor Delgado, Junichi Yamagishi and Kong Aik Lee. Visualizing Classifier Adjacency Relations: A Case Study in Speaker Verification and Voice Anti-Spoofing. In Proc. Interspeech, (accepted) 2021.
+
+#. Erica Cooper, **Xin Wang** and Junichi Yamagishi. Text-to-Speech Synthesis Techniques for MIDI-to-Audio Synthesis. In Proc. SSW (accepted) 2021.
 
 #. Yang Ai, Haoyu Li, **Xin Wang**, Junichi Yamagishi, and Zhenhua Ling.  Denoising-and-Dereverberation Hierarchical Neural Vocoder for Robust Waveform Generation . In Proc. SLT, (to be published). 2021.
 
@@ -194,6 +206,8 @@ Conference
 
 Talk
 ====
+* 2021 July, ``Advancement in Neural Vocoders``. Tutorial at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. `Slides <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_
+  
 * 2020 Nov., ``Neural statistical parametric speech synthesis``. Tutorial as ISCA 2020 Speaker Odyssey, Tokyo. `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_ are available.
 
 * 2020 July, ``Neural auto-regressive, source-filter and glottal vocoders for speech and music signals``. Tutorial at ISCA 2020 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_.

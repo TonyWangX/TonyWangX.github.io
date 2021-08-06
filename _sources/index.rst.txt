@@ -16,13 +16,22 @@ Here is my :ref:`label-resume`.
 
 Messages
 ========
+*2021.07.30*
+
+Tutorials on neural vocoders for SPCC 2021:
+
+       1. Slides are available on `Slideshare <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_ ;
+
+       2. Hands-on materials on some vocoders (WaveNet, WaveGlow, Blow, NSF) are added to git repo. Please check the `tutorials <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_ folder.
+
+       
 *2021.04.01*
 
 Pytorch project is updated https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts:
 
-       1. Accumulated commits over the last year
+       1. Accumulated commits over the last year;
 	  
-       2. Projects on ASVspoof: many pre-trained models and training recipes
+       2. Projects on ASVspoof: many pre-trained models and training recipes;
 
 
 *2020.10.27*

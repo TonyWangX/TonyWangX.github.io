@@ -13,7 +13,11 @@ In most cases, I cannot directly share samples through PDF. Some samples can be 
 
 Talk
 ============
+**Advancement in Neural Vocoders**. 2021 July Tutorial at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. Slides is `here <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_. 
+
 **Tutorial on Neural statistical parametric speech synthesis (recent sequence-to-sequence TTS models)**. 2020 Oct, For Odyssey 2020. `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_ are available. Audios are collected from reference papers' official websites or from open domain data repository.
+
+**Neural vocoders for speech and music signals**. 2020 Nov, invited talk at YAMAHA, with Prof. Yamagishi.
 
 **Neural auto-regressive, source-filter and glottal vocoders for speech and music signals**. 2020 Jul, Tutorial at ISCA 2020 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_.
 
@@ -26,6 +30,8 @@ Talk
 
 Conference presentation
 =======================
+Anti-spoofing: Interspeech 2021 presentation for `Comparative study on ASVspoof 2019 LA, PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAbQM0rKGea4t5i5m6rn_F_a/web/2021-interspeech-Fri-M-V-7-1.pdf?raw=1>`_. Codes are available at `git repo project/03-asvspoof-mega <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts>`_
+
 NSF model (latest ver.): Interspeech 2020 presentation for cyclic-noise-NSF -- `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAMoAEj77_oy4FmG0rkCTWwa/web/2020-interspech.pptx?raw=1>`_ and `PDF slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD0BZlZh4TexeLs3VQVY0kJa/web/2020-interspech.pdf?raw=1>`_ . Natural samples are from `CMU-arctic <http://www.festvox.org/cmu_arctic/>`_
 
 
