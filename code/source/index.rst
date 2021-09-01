@@ -5,6 +5,13 @@
 
 Welcome
 *******
+
+.. figure:: pic/20_wan_photo.jpg
+  :align: right
+  :height: 150
+
+  
+
 I am Xin Wang, a postdoc researcher at Yamagishi Lab, National Institute of Informatics (`NII <https://www.nii.ac.jp/>`_), Japan. 
 
 I am studying speech processing and machine learning, and I learned a lot from my supervisors at NII and USTC and many colleagues around the world.
@@ -16,9 +23,19 @@ Here is my :ref:`label-resume`.
 
 Messages
 ========
+
+*2021.09.01*
+
+       The ASVspoof 2021 Workshop, an official Interspeech 2021 satellite event, will be held online in the form of a Zoom Webinar on **September 16th, 2021**.
+
+       The tentative technical program is available from `the ASVspoof website <https://www.asvspoof.org/workshop>`_
+
+       The registration link is `here <https://us06web.zoom.us/webinar/register/WN_z7eszJ6FTWuYP0WD3yGjjA>`_
+
+
 *2021.07.30*
 
-Tutorials on neural vocoders for SPCC 2021:
+       Tutorials on neural vocoders for SPCC 2021 have been uploade online
 
        1. Slides are available on `Slideshare <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_ ;
 
@@ -28,7 +45,7 @@ Tutorials on neural vocoders for SPCC 2021:
 	  
 *2021.04.01*
 
-Pytorch project is updated https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts:
+       Pytorch project is updated https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts:
 
        1. Accumulated commits over the last year;
 	  
@@ -37,7 +54,7 @@ Pytorch project is updated https://github.com/nii-yamagishilab/project-NN-Pytorc
 
 *2020.10.27*
 
-New slides have been uploaded:
+       New slides have been uploaded:
        
        1. Interspeech 2020 presentation for Cyclic-noise NSF: `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAMoAEj77_oy4FmG0rkCTWwa/web/2020-interspech.pptx?raw=1>`_ and `PDF slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD0BZlZh4TexeLs3VQVY0kJa/web/2020-interspech.pdf?raw=1>`_ 
 	 
@@ -45,7 +62,7 @@ New slides have been uploaded:
 
 *2020.08.30* 
 
-Repositories from my personal git account have been moved to https://github.com/nii-yamagishilab, including:
+       Repositories from my personal git account have been moved to https://github.com/nii-yamagishilab, including:
 
        1. CURRENNT and related source codes: https://github.com/nii-yamagishilab/project-CURRENNT-public
 
@@ -54,12 +71,12 @@ Repositories from my personal git account have been moved to https://github.com/
 
 *2020.08.20* 
 
-Tutorial materials on Pytorch NSF models are `uploaded <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. They are based on Jupyter notebooks and can be run on laptop with CPU;
+       Tutorial materials on Pytorch NSF models are `uploaded <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. They are based on Jupyter notebooks and can be run on laptop with CPU;
 
 
 *2020.06.31* 
 
-Pytorch re-implementation of NSF models is available: https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts
+       Pytorch re-implementation of NSF models is available: https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts
 
 
 Contact

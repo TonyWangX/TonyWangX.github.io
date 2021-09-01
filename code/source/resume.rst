@@ -55,11 +55,11 @@ Academic activity
 
 Organizer
 
- * `ASVspoof <https://www.asvspoof.org/>`_ 2021, 2019
- * ISCA Interspeech 2020 `special session on voice privacy <https://www.voiceprivacychallenge.org>`_ 
+ * ISCA `ASVspoof challenges <https://www.asvspoof.org/>`_ 2021, 2019
+ * ISCA Interspeech 2020 special session on `voice privacy <https://www.voiceprivacychallenge.org>`_ 
  * APSIPA ASC 2019 special session on `Deep Generative Models for Media Clones and Its Detection <http://apsipa2019.org/SpecialSessions.html>`_
  * ISCA Interspeech 2019 special session on `Automatic Speaker Verification Spoofing and Countermeasures Challenge 2019 (ASVSpoof 2019) <https://www.interspeech2019.org/program/special_sessions_and_challenges>`_
- * IEEE ASRU 2019 `special session on ASVspoof 2019 <http://asru2019.org/wp/?page_id=622>`_
+ * IEEE ASRU 2019 special session on `ASVspoof 2019 <http://asru2019.org/wp/?page_id=622>`_
 
 Guest editor
 
@@ -75,6 +75,10 @@ Reviewer
 
  * IEICE Trans on Information and Systems
 
+Chair
+ * Interspeech 2021
+
+ 
 Grants
 ======
 
@@ -117,6 +121,10 @@ Journal
 
 
 Conference 
+
+#. Lin Zhang, **Xin Wang**, Erica Cooper and Junichi Yamagishi. Multi-task learning in utterance-level and segmental-level spoof detection. In Proc. ISCA ASVspoof workshop, (accepted) 2021
+
+#. Junichi Yamagishi, **Xin Wang**, Massimiliano Todisco, Md Sahidullah, Jose Patino, Andreas Nautsch, Xuechen Liu, Kong Aik Lee, Tomi Kinnunen, Nicholas Evans, Hector Delgado. ASVspoof 2021: accelerating progress in spoofed and deepfake speech detection. In Proc. ISCA ASVspoof workshop, (accepted) 2021
 
 #. **Xin Wang**, Junich Yamagishi. Comparative Study on Recent Neural Spoofing Countermeasures for Synthetic Speech Detection. In Proc. Interspeech, (accepted) 2021.
 
