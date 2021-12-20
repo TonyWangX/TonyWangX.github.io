@@ -11,7 +11,6 @@ Welcome
   :height: 150
 
   
-
 I am Xin Wang, a postdoc researcher at Yamagishi Lab, National Institute of Informatics (`NII <https://www.nii.ac.jp/>`_), Japan. 
 
 I am studying speech processing and machine learning, and I learned a lot from my supervisors at NII and USTC and many colleagues around the world.
@@ -23,6 +22,12 @@ Here is my :ref:`label-resume`.
 
 Messages
 ========
+
+*2021.12.04*
+
+       The slides for the talk on speech anti-spoofing and anonymization are uploaded. **Two Speech Security Issues after Speech Synthesis Boom**. 2021 Dec, a talk given at CCF.
+       `download from here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+
 
 *2021.09.01*
 

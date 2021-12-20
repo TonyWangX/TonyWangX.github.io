@@ -13,6 +13,8 @@ In most cases, I cannot directly share samples through PDF. Some samples can be 
 
 Talk
 ============
+**Two Speech Security Issues after Speech Synthesis Boom**. 2021 Dec, a talk given at CCF. The slide is `uploaded here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+
 **Advancement in Neural Vocoders**. 2021 July Tutorial at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. Slides is `here <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_. 
 
 **Tutorial on Neural statistical parametric speech synthesis (recent sequence-to-sequence TTS models)**. 2020 Oct, For Odyssey 2020. `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_ are available. Audios are collected from reference papers' official websites or from open domain data repository.
