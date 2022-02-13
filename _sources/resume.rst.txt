@@ -102,8 +102,6 @@ Journal & book chapter
 
 #. **Xin Wang**, and Junichi Yamagishi. A Practical Guide to Logical Access Voice Presentation Attack Detection. In Frontiers in Fake Media Generation and Detection, (to be published). 2022.
 
-#. **Xin Wang**, and Junichi Yamagishi. A Practical Guide to Logical Access Voice Presentation Attack Detection . In Frontiers in Fake Media Generation and Detection, Springer book (to be published). 2022. 
-
 #. **Xin Wang**, Shinji Takaki, and Junichi Yamagishi. 2020. Neural Source-Filter Waveform Models for Statistical Parametric Speech Synthesis. IEEE/ACM Transactions on Audio, Speech, and Language Processing 28: 402–415. doi:10.1109/TASLP.2019.2956145.
 
 #. **Xin Wang**, Shinji Takaki, Junichi Yamagishi, Simon King, and Keiichi Tokuda. 2020. A Vector Quantized Variational Autoencoder (VQ-VAE) Autoregressive Neural F0 Model for Statistical Parametric Speech Synthesis. IEEE/ACM Transactions on Audio, Speech, and Language Processing 28: 157–170. doi:10.1109/TASLP.2019.2950099.
