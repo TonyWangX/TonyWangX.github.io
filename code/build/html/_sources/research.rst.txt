@@ -25,11 +25,14 @@ Many details and results are not reported in the thesis. Please check appendix.
 |
 |
 
-ASVspoof
---------
+Speech Anti-spoofing
+--------------------
 
-ASVspoof 2019 LA database
-=========================
+Database
+========
+
+ASVspoof 2019
+^^^^^^^^^^^^^
 .. image:: pic/LA_TABLE1.png
   :height: 200
 
@@ -42,9 +45,30 @@ A large scale database with bona fide (real) and spoofing (fake) audios from man
 * `Description on the database <https://arxiv.org/abs/1911.01601>`_
 
 * `Audio samples for the LA subset <https://nii-yamagishilab.github.io/samples-xin/main-asvspoof2019.html>`_
-  
-Spoofing countermeasures
-========================
+
+
+ASVspoof 2021
+^^^^^^^^^^^^^
+
+Database for ASVspoof 2021, including:
+
+* `ASVspoof 2021 LA database <https://doi.org/10.5281/zenodo.4837263>`_: a new LA test set with codec and transmission effects
+
+* `ASVspoof 2021 PA database <https://doi.org/10.5281/zenodo.4834716>`_: a new PA test set recoded in real room environments 
+
+* `ASVspoof 2021 DF database <https://doi.org/10.5281/zenodo.4835108>`_: a new trakc called DF, with various audios from various data sources and audio compression effects
+
+* `Baseline code for ASVspoof 2021 <https://github.com/asvspoof-challenge/2021>`_
+
+* Labels are available `here <https://www.asvspoof.org>`_
+
+* Conference proceeding for `ASVspoof 2021 workshop <https://www.isca-speech.org/archive/asvspoof_2021/index.html>`_
+
+Countermeasures
+===============
+
+Comparison on baseline CMs
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: pic/fig_eer_table.png
   :height: 200
 
@@ -52,7 +76,34 @@ A comparison of recent neural spoofing countermeasures on ASVspoof2019 LA databa
 
 * `github link <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts>`_. Check project/03-asvspoof-mega
 
-* Interspeech 2021 presentation `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAbQM0rKGea4t5i5m6rn_F_a/web/2021-interspeech-Fri-M-V-7-1.pdf?raw=1>`_
+* Interspeech 2021 presentation `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAbQM0rKGea4t5i5m6rn_F_a/web/2021-interspeech-Fri-M-V-7-1.pdf?raw=1>`_ and `Paper link <https://www.isca-speech.org/archive/interspeech_2021/wang21fa_interspeech.html>`_
+
+* A `new book chapter <https://arxiv.org/abs/2201.03321>`_ summarizing the common countermeasures.
+
+
+Countermeasure with confidence estimator
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: https://raw.githubusercontent.com/nii-yamagishilab/project-NN-Pytorch-scripts/master/misc/Conf-estimator_test2.png
+  :height: 300
+
+Adding an confidence estimator to the countermeasure so that we can know how confident the CM is.
+
+* `github link <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts>`_. Check project/06-asvspoof-ood
+
+* `Arxiv Paper <https://arxiv.org/abs/2110.04775>`_
+
+
+Countermeasure using SSL-based front end
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: https://raw.githubusercontent.com/nii-yamagishilab/project-NN-Pytorch-scripts/master/misc/fig-ssl.png
+  :height: 200
+
+Instead of using conventional DSP-based features (e.g., LFCC), using self-supervised model can extract more robust features. It works very well on different test sets.
+
+* `github link <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts>`_. Check project/07-asvspoof-ssl
+
+* `paper <https://arxiv.org/abs/2111.07725>`_ on Arxiv
+
 
 |
 |

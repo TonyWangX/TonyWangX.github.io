@@ -50,10 +50,12 @@
 <div class="line"><br /></div>
 </div>
 </div>
-<div class="section" id="asvspoof">
-<h2>ASVspoof<a class="headerlink" href="#asvspoof" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="asvspoof-2019-la-database">
-<h3>ASVspoof 2019 LA database<a class="headerlink" href="#asvspoof-2019-la-database" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="speech-anti-spoofing">
+<h2>Speech Anti-spoofing<a class="headerlink" href="#speech-anti-spoofing" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="database">
+<h3>Database<a class="headerlink" href="#database" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="asvspoof-2019">
+<h4>ASVspoof 2019<a class="headerlink" href="#asvspoof-2019" title="Permalink to this headline">¶</a></h4>
 <a class="reference internal image-reference" href="_images/LA_TABLE1.png"><img alt="_images/LA_TABLE1.png" src="_images/LA_TABLE1.png" style="height: 200px;" /></a>
 <p>A large scale database with bona fide (real) and spoofing (fake) audios from many advanced TTS or VC systems. It publically available:</p>
 <ul class="simple">
@@ -63,17 +65,52 @@
 <li><p><a class="reference external" href="https://nii-yamagishilab.github.io/samples-xin/main-asvspoof2019.html">Audio samples for the LA subset</a></p></li>
 </ul>
 </div>
-<div class="section" id="spoofing-countermeasures">
-<h3>Spoofing countermeasures<a class="headerlink" href="#spoofing-countermeasures" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="asvspoof-2021">
+<h4>ASVspoof 2021<a class="headerlink" href="#asvspoof-2021" title="Permalink to this headline">¶</a></h4>
+<p>Database for ASVspoof 2021, including:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://doi.org/10.5281/zenodo.4837263">ASVspoof 2021 LA database</a>: a new LA test set with codec and transmission effects</p></li>
+<li><p><a class="reference external" href="https://doi.org/10.5281/zenodo.4834716">ASVspoof 2021 PA database</a>: a new PA test set recoded in real room environments</p></li>
+<li><p><a class="reference external" href="https://doi.org/10.5281/zenodo.4835108">ASVspoof 2021 DF database</a>: a new trakc called DF, with various audios from various data sources and audio compression effects</p></li>
+<li><p><a class="reference external" href="https://github.com/asvspoof-challenge/2021">Baseline code for ASVspoof 2021</a></p></li>
+<li><p>Labels are available <a class="reference external" href="https://www.asvspoof.org">here</a></p></li>
+<li><p>Conference proceeding for <a class="reference external" href="https://www.isca-speech.org/archive/asvspoof_2021/index.html">ASVspoof 2021 workshop</a></p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="countermeasures">
+<h3>Countermeasures<a class="headerlink" href="#countermeasures" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="comparison-on-baseline-cms">
+<h4>Comparison on baseline CMs<a class="headerlink" href="#comparison-on-baseline-cms" title="Permalink to this headline">¶</a></h4>
 <a class="reference internal image-reference" href="_images/fig_eer_table.png"><img alt="_images/fig_eer_table.png" src="_images/fig_eer_table.png" style="height: 200px;" /></a>
 <p>A comparison of recent neural spoofing countermeasures on ASVspoof2019 LA database. Pre-trained models and training recipes are available:</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts">github link</a>. Check project/03-asvspoof-mega</p></li>
-<li><p>Interspeech 2021 presentation <a class="reference external" href="https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAbQM0rKGea4t5i5m6rn_F_a/web/2021-interspeech-Fri-M-V-7-1.pdf?raw=1">PPT</a></p></li>
+<li><p>Interspeech 2021 presentation <a class="reference external" href="https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAbQM0rKGea4t5i5m6rn_F_a/web/2021-interspeech-Fri-M-V-7-1.pdf?raw=1">PPT</a> and <a class="reference external" href="https://www.isca-speech.org/archive/interspeech_2021/wang21fa_interspeech.html">Paper link</a></p></li>
+<li><p>A <a class="reference external" href="https://arxiv.org/abs/2201.03321">new book chapter</a> summarizing the common countermeasures.</p></li>
+</ul>
+</div>
+<div class="section" id="countermeasure-with-confidence-estimator">
+<h4>Countermeasure with confidence estimator<a class="headerlink" href="#countermeasure-with-confidence-estimator" title="Permalink to this headline">¶</a></h4>
+<a class="reference internal image-reference" href="https://raw.githubusercontent.com/nii-yamagishilab/project-NN-Pytorch-scripts/master/misc/Conf-estimator_test2.png"><img alt="https://raw.githubusercontent.com/nii-yamagishilab/project-NN-Pytorch-scripts/master/misc/Conf-estimator_test2.png" src="https://raw.githubusercontent.com/nii-yamagishilab/project-NN-Pytorch-scripts/master/misc/Conf-estimator_test2.png" style="height: 300px;" /></a>
+<p>Adding an confidence estimator to the countermeasure so that we can know how confident the CM is.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts">github link</a>. Check project/06-asvspoof-ood</p></li>
+<li><p><a class="reference external" href="https://arxiv.org/abs/2110.04775">Arxiv Paper</a></p></li>
+</ul>
+</div>
+<div class="section" id="countermeasure-using-ssl-based-front-end">
+<h4>Countermeasure using SSL-based front end<a class="headerlink" href="#countermeasure-using-ssl-based-front-end" title="Permalink to this headline">¶</a></h4>
+<a class="reference internal image-reference" href="https://raw.githubusercontent.com/nii-yamagishilab/project-NN-Pytorch-scripts/master/misc/fig-ssl.png"><img alt="https://raw.githubusercontent.com/nii-yamagishilab/project-NN-Pytorch-scripts/master/misc/fig-ssl.png" src="https://raw.githubusercontent.com/nii-yamagishilab/project-NN-Pytorch-scripts/master/misc/fig-ssl.png" style="height: 200px;" /></a>
+<p>Instead of using conventional DSP-based features (e.g., LFCC), using self-supervised model can extract more robust features. It works very well on different test sets.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts">github link</a>. Check project/07-asvspoof-ssl</p></li>
+<li><p><a class="reference external" href="https://arxiv.org/abs/2111.07725">paper</a> on Arxiv</p></li>
 </ul>
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
+</div>
 </div>
 </div>
 </div>
@@ -121,8 +158,8 @@
 <li><p>It was presented at <a class="reference external" href="https://www.dropbox.com/sh/gf3zp00qvdp3row/AAA5syHnVZvJrljcOILi5U4ga/web/2017-ICASSP.pdf?raw=1">ICASSP 2017</a></p></li>
 </ul>
 </div>
-<div class="section" id="id2">
-<h3>Highway Network<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="id4">
+<h3>Highway Network<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h3>
 <a class="reference internal image-reference" href="_images/Highway.png"><img alt="_images/Highway.png" src="_images/Highway.png" style="height: 250px;" /></a>
 <p>This work investigates highway network for speech synthesis and got some interesting observations:</p>
 <ol class="arabic simple">
@@ -193,9 +230,18 @@
   <ul>
 <li><a class="reference internal" href="#">Research</a><ul>
 <li><a class="reference internal" href="#ph-d">Ph.D</a></li>
-<li><a class="reference internal" href="#asvspoof">ASVspoof</a><ul>
-<li><a class="reference internal" href="#asvspoof-2019-la-database">ASVspoof 2019 LA database</a></li>
-<li><a class="reference internal" href="#spoofing-countermeasures">Spoofing countermeasures</a></li>
+<li><a class="reference internal" href="#speech-anti-spoofing">Speech Anti-spoofing</a><ul>
+<li><a class="reference internal" href="#database">Database</a><ul>
+<li><a class="reference internal" href="#asvspoof-2019">ASVspoof 2019</a></li>
+<li><a class="reference internal" href="#asvspoof-2021">ASVspoof 2021</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#countermeasures">Countermeasures</a><ul>
+<li><a class="reference internal" href="#comparison-on-baseline-cms">Comparison on baseline CMs</a></li>
+<li><a class="reference internal" href="#countermeasure-with-confidence-estimator">Countermeasure with confidence estimator</a></li>
+<li><a class="reference internal" href="#countermeasure-using-ssl-based-front-end">Countermeasure using SSL-based front end</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a class="reference internal" href="#nsf-model">NSF model</a></li>
@@ -203,7 +249,7 @@
 <li><a class="reference internal" href="#tts-comparison">TTS comparison</a></li>
 <li><a class="reference internal" href="#deep-ar-f0-model">Deep AR F0 model</a></li>
 <li><a class="reference internal" href="#shallow-ar-acoustic-model">Shallow AR acoustic model</a></li>
-<li><a class="reference internal" href="#id2">Highway Network</a></li>
+<li><a class="reference internal" href="#id4">Highway Network</a></li>
 <li><a class="reference internal" href="#another-comparison">Another comparison</a></li>
 </ul>
 </li>

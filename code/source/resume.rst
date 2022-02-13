@@ -56,7 +56,7 @@ Academic activity
 Organizer
 
  * ISCA `ASVspoof challenges <https://www.asvspoof.org/>`_ 2021, 2019
- * ISCA Interspeech 2020 special session on `voice privacy <https://www.voiceprivacychallenge.org>`_ 
+ * Voice Privacy `initiaties <https://www.voiceprivacychallenge.org>`_ 
  * APSIPA ASC 2019 special session on `Deep Generative Models for Media Clones and Its Detection <http://apsipa2019.org/SpecialSessions.html>`_
  * ISCA Interspeech 2019 special session on `Automatic Speaker Verification Spoofing and Countermeasures Challenge 2019 (ASVSpoof 2019) <https://www.interspeech2019.org/program/special_sessions_and_challenges>`_
  * IEEE ASRU 2019 special session on `ASVspoof 2019 <http://asru2019.org/wp/?page_id=622>`_
@@ -86,15 +86,23 @@ Grants
 
 * 2020 - 2021, Deep-learning-based neural source-filtering models for fast and high-quality music signal generation, KAWAI, investigator: Xin Wang
 
-* 2019 - 2021, One model for all sounds: fast and high-quality neural source-filter model for speech and non-speech waveform modeling, JSPS, grant-for-startup, 19K24371, investigator: Xin Wang
+* 2021 - 2022, Enhanced End-to-End Multi-Instrument MIDI/sheet-to-Music Synthesis with Timber and Style Transfer, JST AIP Challenge, investigator: Xin Wang
 
+* 2019 - 2021, One model for all sounds: fast and high-quality neural source-filter model for speech and non-speech waveform modeling, JSPS, grant-for-startup, 19K24371, investigator: Xin Wang
+  
+* 2021 - 2022, Optimizing a Speech Anti-spoofing Database, Google Research grant, investigators: Junichi Yamagishi, Xin Wang, Eric Cooper
+  
 * 2019 - 2020, AI Focused Research Awards Program in Japan: Robust and all-purpose neural source-filter models, Google, investigators: Junichi Yamagishi, Xin Wang, Eric Cooper
 
 
 Publication
 ===========
 
-Journal
+Journal & book chapter
+
+#. **Xin Wang**, and Junichi Yamagishi. A Practical Guide to Logical Access Voice Presentation Attack Detection. In Frontiers in Fake Media Generation and Detection, (to be published). 2022.
+
+#. **Xin Wang**, and Junichi Yamagishi. A Practical Guide to Logical Access Voice Presentation Attack Detection . In Frontiers in Fake Media Generation and Detection, Springer book (to be published). 2022. 
 
 #. **Xin Wang**, Shinji Takaki, and Junichi Yamagishi. 2020. Neural Source-Filter Waveform Models for Statistical Parametric Speech Synthesis. IEEE/ACM Transactions on Audio, Speech, and Language Processing 28: 402–415. doi:10.1109/TASLP.2019.2956145.
 
@@ -109,10 +117,12 @@ Journal
 #. **Xin Wang**, Zhen-Hua Ling, and Li-Rong Dai. 2016. Concept-to-Speech Generation with Knowledge Sharing for Acoustic Modelling and Utterance Filtering. Computer Speech & Language 38 (July). Elsevier: 46–67. doi:10.1016/j.csl.2015.12.003.
 
 #. **Xin Wang**, Shinji Takaki, and Junichi Yamagishi. 2016. Investigation of Using Continuous Representation of Various Linguistic Units in Neural Network Based Text-to-Speech Synthesis. IEICE Transactions on Information and Systems E99.D (10): 2471–2480. doi:10.1587/transinf.2016SLP0011.
+   
+#. Natalia Tomashenko, **Xin Wang**, Emmanuel Vincent, Jose Patino, Brij Mohan Lal Srivastava, Paul-Gauthier Noé, Andreas Nautsch, Nicholas Evans, Junichi Yamagishi, Benjamin O’Brien, Anaïs Chanclu, Jean-François Bonastre, Massimiliano Todisco, and Mohamed Maouche. The VoicePrivacy 2020 Challenge: Results and Findings. Computer Speech & Language, February, 101362. doi:10.1016/j.csl.2022.101362. 2022. 
 
 #. Andreas Nautsch, **Xin Wang**, Nicolas Evans, Tomi Kinnunen, Ville Vestman, Massimiliano Todisco, Hector Delgado, Md Sahidullah, Junichi Yamagishi, and Kong Aik Lee.  ASVspoof 2019: Spoofing Countermeasures for the Detection of Synthesized, Converted and Replayed Speech . IEEE Trans. on Biometrics, Behavior, and Identity (T-BIOM), (accepted). 2021.
 
-#. Yusuke Yasuda, **Xin Wang**, and Junichi Yamagishi.  Investigation of Learning Abilities on Linguistic Features in Sequence-to-Sequence Text-to-Speech Synthesis . Computer Speech & Language 67: 101183doi:https://doi.org/10.1016/j.csl.2020.101183. 2021.
+#. Yusuke Yasuda, **Xin Wang**, and Junichi Yamagishi.  Investigation of Learning Abilities on Linguistic Features in Sequence-to-Sequence Text-to-Speech Synthesis . Computer Speech & Language 67: 101183, doi:https://doi.org/10.1016/j.csl.2020.101183. 2021.
 
 #. Shuhei Kato, Yusuke Yasuda, **Xin Wang**, Erica Cooper, Shinji Takaki, and Junichi Yamagishi. 2020. Modeling of Rakugo Speech and Its Limitations: Toward Speech Synthesis That Entertains Audiences. IEEE Access 8: 138149–138161.
 
@@ -122,23 +132,25 @@ Journal
 
 Conference 
 
-#. Lin Zhang, **Xin Wang**, Erica Cooper and Junichi Yamagishi. Multi-task learning in utterance-level and segmental-level spoof detection. In Proc. ISCA ASVspoof workshop, (accepted) 2021
+#. Erica Cooper, **Xin Wang**, and Junichi Yamagishi. Text-to-Speech Synthesis Techniques for MIDI-to-Audio Synthesis. In Proc. 11th ISCA Speech Synthesis Workshop (SSW 11), 130–135. doi:10.21437/SSW.2021-23. 2021.
+   
+#. Tomi Kinnunen, Andreas Nautsch, Md. Sahidullah, Nicholas Evans, **Xin Wang**, Massimiliano Todisco, Héctor Delgado, Junichi Yamagishi, and Kong Aik Lee. Visualizing Classifier Adjacency Relations: A Case Study in Speaker Verification and Voice Anti-Spoofing. In Proc. Interspeech, 4299–4303. doi:10.21437/Interspeech.2021-1522. 2021.
 
-#. Junichi Yamagishi, **Xin Wang**, Massimiliano Todisco, Md Sahidullah, Jose Patino, Andreas Nautsch, Xuechen Liu, Kong Aik Lee, Tomi Kinnunen, Nicholas Evans, Hector Delgado. ASVspoof 2021: accelerating progress in spoofed and deepfake speech detection. In Proc. ISCA ASVspoof workshop, (accepted) 2021
+#. Lin Zhang, **Xin Wang**, Erica Cooper, and Junichi Yamagishi. Multi-Task Learning in Utterance-Level and Segmental-Level Spoof Detection. In Proc. ASVspoof Challenge Workshop, 9–15. doi:10.21437/ASVSPOOF.2021-2. 2021.
 
-#. **Xin Wang**, Junich Yamagishi. Comparative Study on Recent Neural Spoofing Countermeasures for Synthetic Speech Detection. In Proc. Interspeech, (accepted) 2021.
+#. Jean-François Bonastre, Héctor Delgado, Nicholas Evans, Tomi Kinnunen, Kong Aik Lee, Xuechen Liu, Andreas Nautsch, Paul-Gauthier Noé, Jose Patino, Md Sahidullah, Brij Mohan Lal Srivastava, Massimiliano Todisco, Natalia Tomashenko, Emmanuel Vincent, **Xin Wang**, and Junichi Yamagishi. Benchmarking and Challenges in Security and Privacy for Voice Biometrics. In Proc. 2021 ISCA Symposium on Security and Privacy in Speech Communication, 52–56. doi:10.21437/SPSC.2021-11. 2021.
+   
+#. Junichi Yamagishi, **Xin Wang**, Massimiliano Todisco, Md Sahidullah, Jose Patino, Andreas Nautsch, Xuechen Liu, Kong Aik Lee, Tomi Kinnunen, Nicholas Evans, and Héctor Delgado. ASVspoof 2021: Accelerating Progress in Spoofed and Deepfake Speech Detection. In Proc. ASVspoof Challenge Workshop, 47–54. doi:10.21437/ASVSPOOF.2021-8. 2021.
 
-#. Lin Zhang, **Xin Wang**, Erica Cooper, Junichi Yamagishi, Jose Patino and Nicholas Evans, An Initial Investigation for Detecting Partially Spoofed Audio. In Proc. Interspeech, (accepted) 2021.
+#. **Xin Wang**, and Junich Yamagishi. A Comparative Study on Recent Neural Spoofing Countermeasures for Synthetic Speech Detection. In Proc. Interspeech, 4259–4263. doi:10.21437/Interspeech.2021-702. 2021.
 
-#. Tomi Kinnunen, Andreas Nautsch, Md. Sahidullah, Nicholas Evans, **Xin Wang**, Massimiliano Todisco, Héctor Delgado, Junichi Yamagishi and Kong Aik Lee. Visualizing Classifier Adjacency Relations: A Case Study in Speaker Verification and Voice Anti-Spoofing. In Proc. Interspeech, (accepted) 2021.
+#. Lin Zhang, **Xin Wang**, Erica Cooper, Junichi Yamagishi, Jose Patino, and Nicholas Evans. An Initial Investigation for Detecting Partially Spoofed Audio. In Proc. Interspeech, 4264–4268. doi:10.21437/Interspeech.2021-738. 2021.
 
-#. Erica Cooper, **Xin Wang** and Junichi Yamagishi. Text-to-Speech Synthesis Techniques for MIDI-to-Audio Synthesis. In Proc. SSW (accepted) 2021.
+#. Yang Ai, Haoyu Li, **Xin Wang**, Junichi Yamagishi, and Zhenhua Ling. Denoising-and-Dereverberation Hierarchical Neural Vocoder for Robust Waveform Generation. In 2021 IEEE Spoken Language Technology Workshop (SLT), 477–484. IEEE. doi:10.1109/SLT48900.2021.9383611. 2021.
 
-#. Yang Ai, Haoyu Li, **Xin Wang**, Junichi Yamagishi, and Zhenhua Ling.  Denoising-and-Dereverberation Hierarchical Neural Vocoder for Robust Waveform Generation . In Proc. SLT, (to be published). 2021.
-
-#. Yusuke Yasuda, **Xin Wang**, and Junichi Yamagishi.  End-to-End Text-to-Speech Using Latent Duration Based on VQ-VAE . In Proc. ICASSP, (accepted). 2021.
-
-#. Shuhei Kato, Yusuke Yasuda, **Xin Wang**, Erica Cooper, and Junichi Yamagishi.  How Similar or Different Is Rakugo Speech Synthesizer to Professional Performers? . In Proc. ICASSP, (accepted). 2021.
+#. Shuhei Kato, Yusuke Yasuda, **Xin Wang**, Erica Cooper, and Junichi Yamagishi. How Similar or Different Is Rakugo Speech Synthesizer to Professional Performers? In Proc. ICASSP, 6488–6492. IEEE. doi:10.1109/ICASSP39728.2021.9414175. 2021.
+   
+#. Yusuke Yasuda, **Xin Wang**, and Junichi Yamagishd. End-to-End Text-to-Speech Using Latent Duration Based on VQ-VAE. In Proc. ICASSP, 5694–5698. IEEE. doi:10.1109/ICASSP39728.2021.9414499. 2021.
 
 #. Brij Mohan Lal Srivastava, Natalia Tomashenko, **Xin Wang**, Emmanuel Vincent, Junichi Yamagishi, Mohamed Maouche, Aurelien Bellet, and Marc Tommasi. 2020. Design Choices for X-Vector Based Speaker Anonymization. In Proc. Interspeech, 1713-1717. ISCA: ISCA. doi:10.21437/Interspeech.2020-2692.
 
@@ -214,6 +226,11 @@ Conference
 
 Talk
 ====
+
+* 2021 Dec, ``Two speech security issues after the speech synthesis boom``. Speech Synthesis Forum, China Computer Federation. `Slides here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+  
+* 2021 Oct, ``Deepfakes: High-tech Illusions to Trick the Human Brain.``, JST Science Agora 2021, pre-Agora event, with Sascha Frühholz (University of Zurich), Erica Cooper, Florence Steiner (University of Zurich). Video is `here <https://youtu.be/FfhiGFA0dg8>`_
+
 * 2021 July, ``Advancement in Neural Vocoders``. Tutorial at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. `Slides <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_
   
 * 2020 Nov., ``Neural statistical parametric speech synthesis``. Tutorial as ISCA 2020 Speaker Odyssey, Tokyo. `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_ are available.
@@ -242,6 +259,12 @@ Awards & scholarship
 * MEXT Scholarship (Ph.D 2015 - 2018), Japan
 
 
+Language
+========
+* Mandarin
+* English (Toefl 2015, 112/120)
+* Japanese (N1, 2021 Dec)
+  
 .. toctree::
    :hidden:
    :maxdepth: 1
