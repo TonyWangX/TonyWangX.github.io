@@ -23,6 +23,15 @@ Here is my :ref:`label-resume`.
 Messages
 ========
 
+*2022.05.27*
+
+       The materials for ICASSP short course on neural vocoders are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. The old contents are re-edited, and new contents are available (including NSF-HiFiGAN). 
+
+*2022.01.04*
+
+        Slides for JST Science Agora talk on speech spoofing detection is available: `Agora PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAC3cXcoPNA7M8MHB2CAXnY5a/web/Science-Agora-2021_part2.pdf>`_  and `Agora PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADLL5SEUSZ-fRPGSl_eiYRba/web/Science-Agora-2021_part2.pptx>`_. There are many spoofing audio samples under various conditions. You can try to detect which one is spoofed. 
+
+       
 *2021.12.04*
 
        The slides for the talk on speech anti-spoofing and anonymization are uploaded. **Two Speech Security Issues after Speech Synthesis Boom**, 2021 Dec, a talk given at CCF.

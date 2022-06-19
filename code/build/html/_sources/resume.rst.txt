@@ -100,7 +100,7 @@ Publication
 
 Journal & book chapter
 
-#. **Xin Wang**, and Junichi Yamagishi. A Practical Guide to Logical Access Voice Presentation Attack Detection. In Frontiers in Fake Media Generation and Detection, (to be published). 2022.
+#. **Xin Wang**, and Junichi Yamagishi. A Practical Guide to Logical Access Voice Presentation Attack Detection. In Frontiers in Fake Media Generation and Detection. Springer. 2022.
 
 #. **Xin Wang**, Shinji Takaki, and Junichi Yamagishi. 2020. Neural Source-Filter Waveform Models for Statistical Parametric Speech Synthesis. IEEE/ACM Transactions on Audio, Speech, and Language Processing 28: 402–415. doi:10.1109/TASLP.2019.2956145.
 
@@ -129,6 +129,16 @@ Journal & book chapter
 
 
 Conference 
+
+#. **Xin Wang**, and Junichi Yamagishi. Investigating Self-Supervised Front Ends for Speech Spoofing Countermeasures. Proc. Odyssey. 2022.
+
+#. Hemlata Tak, Massimiliano Todisco, **Xin Wang**, Jee-weon Jung, Junichi Yamagishi, and Nicholas Evans. Automatic Speaker Verification Spoofing and Deepfake Detection Using Wav2vec 2.0 and Data Augmentation. In Proc. Odyssey 2022 The Speaker and Language Recognition Workshop. Vol. accepted. 2022.
+
+#. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi, and Natalia Tomashenko. Language-Independent Speaker Anonymization Approach Using Self-Supervised Pre-Trained Models. In Proc. Odyssey, (accepted). 2022.
+
+#. **Xin Wang**, and Junichi Yamagishi. Estimating the Confidence of Speech Spoofing Countermeasure. In Proc. ICASSP, (accepted). 2022.
+
+#. Chang Zeng, **Xin Wang**, Erica Cooper, Xiaoxiao Miao, and Junichi Yamagishi. Attention Back-End for Automatic Speaker Verification with Multiple Enrollment Utterances. In Proc. ICASSP, (accepted). http://arxiv.org/abs/2104.01541. 2022.
 
 #. Erica Cooper, **Xin Wang**, and Junichi Yamagishi. Text-to-Speech Synthesis Techniques for MIDI-to-Audio Synthesis. In Proc. 11th ISCA Speech Synthesis Workshop (SSW 11), 130–135. doi:10.21437/SSW.2021-23. 2021.
    

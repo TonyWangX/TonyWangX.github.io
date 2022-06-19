@@ -5,6 +5,12 @@
 
 Welcome
 *******
+
+.. figure:: pic/20_wan_photo.jpg
+  :align: right
+  :height: 150
+
+  
 I am Xin Wang, a postdoc researcher at Yamagishi Lab, National Institute of Informatics (`NII <https://www.nii.ac.jp/>`_), Japan. 
 
 I am studying speech processing and machine learning, and I learned a lot from my supervisors at NII and USTC and many colleagues around the world.
@@ -16,9 +22,61 @@ Here is my :ref:`label-resume`.
 
 Messages
 ========
+
+*2022.05.27*
+
+       The materials for ICASSP short course on neural vocoders are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. The old contents are re-edited, and new contents are available (including NSF-HiFiGAN). 
+
+*2022.01.04*
+
+        Slides for JST Science Agora talk on speech spoofing detection is available: `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAC3cXcoPNA7M8MHB2CAXnY5a/web/Science-Agora-2021_part2.pdf>`_  and `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADLL5SEUSZ-fRPGSl_eiYRba/web/Science-Agora-2021_part2.pptx>`_. There are many spoofing audio samples under various conditions. You can try to detect which one is spoofed. 
+
+       
+*2021.12.04*
+
+       The slides for the talk on speech anti-spoofing and anonymization are uploaded. **Two Speech Security Issues after Speech Synthesis Boom**, 2021 Dec, a talk given at CCF.
+       `download from here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+
+
+*2021.09.01*
+
+       The ASVspoof 2021 Workshop, an official Interspeech 2021 satellite event, will be held online in the form of a Zoom Webinar on **September 16th, 2021**.
+
+       The tentative technical program is available from `the ASVspoof website <https://www.asvspoof.org/workshop>`_
+
+       The registration link is `here <https://us06web.zoom.us/webinar/register/WN_z7eszJ6FTWuYP0WD3yGjjA>`_
+
+
+*2021.07.30*
+
+       Tutorials on neural vocoders for SPCC 2021 have been uploade online
+
+       1. Slides are available on `Slideshare <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_ ;
+
+       2. Hands-on materials on some vocoders (WaveNet, WaveGlow, Blow, NSF) are added to git repo. Please check the `tutorials <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_ folder.
+
+
+	  
+*2021.04.01*
+
+       Pytorch project is updated https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts:
+
+       1. Accumulated commits over the last year;
+	  
+       2. Projects on ASVspoof: many pre-trained models and training recipes;
+
+
+*2020.10.27*
+
+       New slides have been uploaded:
+       
+       1. Interspeech 2020 presentation for Cyclic-noise NSF: `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAMoAEj77_oy4FmG0rkCTWwa/web/2020-interspech.pptx?raw=1>`_ and `PDF slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD0BZlZh4TexeLs3VQVY0kJa/web/2020-interspech.pdf?raw=1>`_ 
+	 
+       2. Odyssey tutorial presentation: `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_
+
 *2020.08.30* 
 
-Repositories from my personal git account have been moved to https://github.com/nii-yamagishilab, including:
+       Repositories from my personal git account have been moved to https://github.com/nii-yamagishilab, including:
 
        1. CURRENNT and related source codes: https://github.com/nii-yamagishilab/project-CURRENNT-public
 
@@ -27,12 +85,12 @@ Repositories from my personal git account have been moved to https://github.com/
 
 *2020.08.20* 
 
-Tutorial materials on Pytorch NSF models are `uploaded <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. They are based on Jupyter notebooks and can be run on laptop with CPU;
+       Tutorial materials on Pytorch NSF models are `uploaded <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. They are based on Jupyter notebooks and can be run on laptop with CPU;
 
 
 *2020.06.31* 
 
-Pytorch re-implementation of NSF models is available: https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts
+       Pytorch re-implementation of NSF models is available: https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts
 
 
 Contact

@@ -13,7 +13,11 @@ In most cases, I cannot directly share samples through PDF. Some samples can be 
 
 Talk
 ============
+**ICASSP 2022 short course: neural vocoder**. 2022 May. The materials for ICASSP short course on neural vocoders are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. The old contents are re-edited, and new contents are available (including NSF-HiFiGAN). 
+
 **Two Speech Security Issues after Speech Synthesis Boom**. 2021 Dec, a talk given at CCF. The slide is `uploaded here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+
+**DeepFake: high-tech illusions to deceive human brains**. 2021 Oct, a talk given at JST Science Agora with Erica Cooper. Here is the part presented by me: `Agora PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAC3cXcoPNA7M8MHB2CAXnY5a/web/Science-Agora-2021_part2.pdf>`_  and `Aogra PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADLL5SEUSZ-fRPGSl_eiYRba/web/Science-Agora-2021_part2.pptx>`_. 
 
 **Advancement in Neural Vocoders**. 2021 July Tutorial at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. Slides is `here <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_. 
 
