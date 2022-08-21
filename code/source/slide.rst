@@ -22,7 +22,7 @@ Talk
 
 This talk briefly summarizes a few representative neural vocoders. For a more detailed talk, please check :ref:`the slide for Advancement in Neural Vocoders <label-slide-2021-jul-1>`.
 
-However, the hands-on materials used for this short course are the latest and re-fined version. They are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_! 
+The hands-on materials used for this short course cover a few latest neural vocoders. There are step-to-step instructions on implementation, demonstration with pre-trained models, and detailed explanation on some common DSP and deep learning techniques. Please check `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. 
 
 
 .. _label-slide-2021-dec-1:
@@ -32,9 +32,9 @@ However, the hands-on materials used for this short course are the latest and re
 
 **Two Speech Security Issues after Speech Synthesis Boom**
 
-This talk briefly introduces anti-spoofing (audio deepfake detection) and voice privacy. It is mainly for beginner of these fields.
+This talk briefly introduces anti-spoofing (audio deepfake detection) and voice privacy. It is mainly for new comers to these fields.
 
-The slide is `uploaded here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+The slide can be found `on dropbox here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
 
 
 .. _label-slide-2021-oct-1:
