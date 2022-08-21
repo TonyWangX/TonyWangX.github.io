@@ -7,35 +7,143 @@
 
 Talk & slides
 *************
-Here are somes slides. 
 
-In most cases, I cannot directly share samples through PDF. Some samples can be found through the link in the PDF.
+In most cases, I cannot directly share audio samples. Some samples can be found through the link in the PDF.
 
 Talk
 ============
-**ICASSP 2022 short course: neural vocoder**. 2022 May. The materials for ICASSP short course on neural vocoders are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. The old contents are re-edited, and new contents are available (including NSF-HiFiGAN). 
 
-**Two Speech Security Issues after Speech Synthesis Boom**. 2021 Dec, a talk given at CCF. The slide is `uploaded here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+.. _label-slide-2022-may-1:
 
-**DeepFake: high-tech illusions to deceive human brains**. 2021 Oct, a talk given at JST Science Agora with Erica Cooper. Here is the part presented by me: `Agora PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAC3cXcoPNA7M8MHB2CAXnY5a/web/Science-Agora-2021_part2.pdf>`_  and `Aogra PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADLL5SEUSZ-fRPGSl_eiYRba/web/Science-Agora-2021_part2.pptx>`_. 
+2022-MAY
+--------
 
-**Advancement in Neural Vocoders**. 2021 July Tutorial at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. Slides is `here <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_. 
+**ICASSP 2022 short course: neural vocoder**
 
-**Tutorial on Neural statistical parametric speech synthesis (recent sequence-to-sequence TTS models)**. 2020 Oct, For Odyssey 2020. `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_ are available. Audios are collected from reference papers' official websites or from open domain data repository.
+This talk briefly summarizes a few representative neural vocoders. For a more detailed talk, please check :ref:`the slide for Advancement in Neural Vocoders <label-slide-2021-jul-1>`.
 
-**Neural vocoders for speech and music signals**. 2020 Nov, invited talk at YAMAHA, with Prof. Yamagishi.
+However, the hands-on materials used for this short course are the latest and re-fined version. They are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_! 
 
-**Neural auto-regressive, source-filter and glottal vocoders for speech and music signals**. 2020 Jul, Tutorial at ISCA 2020 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_.
 
-**Neural waveform models for text-to-speech synthesis**. 2019 Sep, Fraunhofer IIS, invited talk, Erlangen, Germany. Slide is `here 1 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAByUSX6u4O51bGHpIFlgy-ba/web/201909-FraunhoderIIS-neural-waveform-models.pdf?raw=1>`_
+.. _label-slide-2021-dec-1:
 
-**Tutorial on recent neural waveform models**. 2019 Jan, IEICE Technical Committee on Speech (SP), invited tutorial, Kanazawa, Japan. Slide is `here 2 <https://www.slideshare.net/jyamagis/tutorial-on-endtoend-texttospeech-synthesis-part-1-neural-waveform-modeling>`_
+2021-DEC
+--------
 
-**Autoregressive neural networks for parametric speech synthesis**, 2018 Jan, Nagoya Institute of Technology, Tokuda lab & 2018 Jun, Aalto University, Paavo Alku lab. Slide is `here 3 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AACZVX1Tf9Qw1MUc2YHQKf4Ia/web/20180111-Nagoya-ARmodels.pdf?raw=1>`_
+**Two Speech Security Issues after Speech Synthesis Boom**
+
+This talk briefly introduces anti-spoofing (audio deepfake detection) and voice privacy. It is mainly for beginner of these fields.
+
+The slide is `uploaded here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+
+
+.. _label-slide-2021-oct-1:
+
+2021-OCT
+--------
+
+**DeepFake: high-tech illusions to deceive human brains**
+
+This is a talk given at JST Science Agora with Dr. Erica Cooper.
+
+It is an introduction on anti-spoofing (audio deepfake detection).
+
+Here is the part presented by me: `Agora PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAC3cXcoPNA7M8MHB2CAXnY5a/web/Science-Agora-2021_part2.pdf>`_  and `Aogra PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADLL5SEUSZ-fRPGSl_eiYRba/web/Science-Agora-2021_part2.pptx>`_. 
+
+.. _label-slide-2021-jul-1:
+
+2021-JUL
+--------
+
+**Advancement in Neural Vocoders**
+
+This is the tutorial on neural vocoders, at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi.
+
+It was a very long tutorial (>3 hours). Slides are `on slideshare <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_ (I only own part of it).
+
+The hands-on materials were re-edited and uploaded to Google Colab. See :ref:`ICASSP 2022 short course: neural vocoder <label-slide-2022-may-1>`.
+
+
+.. _label-slide-2020-nov-2:
+
+2020-DEC
+--------
+
+**Tutorial on Neural statistical parametric speech synthesis**
+
+This is a tutorial on text-to-speech synthesis, at ISCA speaker Odyssey 2020.
+
+It is mainly on sequence-to-sequence TTS acoustic models (both soft- and hard-attention based approaches), but it also covers some basic ideas from the classical HMM-based approaches.
+
+`PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_ are available.
+
+The video is on `youtube <https://youtu.be/WCe7SYcDzAI>`_
+
+
+There many audios samples collected from reference papers' official websites or from open domain data repository.
+
+
+.. _label-slide-2020-nov-1:
+
+2020-NOV
+--------
+**Neural vocoders for speech and music signals**
+
+This an invited talk at YAMAHA, with Prof. Yamagishi.
+
+Nothing can be disclosed.
+
+
+.. _label-slide-2020-jul-1:
+
+2020-JUL
+--------
+
+**Neural auto-regressive, source-filter and glottal vocoders for speech and music signals**
+
+This is the early version of the tutorial on neural vocoders, given at ISCA 2020 Speech Processing Courses in Crete, with Prof. Yamagishi.
+
+The hands-on materials were re-edited and uploaded to Google Colab. See :ref:`ICASSP 2022 short course: neural vocoder <label-slide-2022-may-1>`.
+
+
+.. _label-slide-2019-sep-1:
+
+2019-SEP
+--------
+**Neural waveform models for text-to-speech synthesis**
+
+
+Invited talk given at Fraunhofer IIS, Erlangen, Germany.
+
+This is about the neural source-filter vocoders and related experiments done by 2019.
+
+Slide is `here 1 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAByUSX6u4O51bGHpIFlgy-ba/web/201909-FraunhoderIIS-neural-waveform-models.pdf?raw=1>`_
+
+
+.. _label-slide-2019-jan-1:
+
+2019-JAN
+--------
+**Tutorial on recent neural waveform models**
+
+This is a talk on neural vocoders, but the contents and explanations are based on my knowledge by then. It is out-of-date. Please check tutorials above for my latest understanding.
+
+IEICE Technical Committee on Speech (SP), invited tutorial, Kanazawa, Japan. Slide is `here 2 <https://www.slideshare.net/jyamagis/tutorial-on-endtoend-texttospeech-synthesis-part-1-neural-waveform-modeling>`_
+
+.. _label-slide-2018-jan-1:
+
+2018-JAN
+--------
+**Autoregressive neural networks for parametric speech synthesis**
+
+This is a talk on the previous-generation TTS system. It talks about autoregressive models for F0 prediction.
+
+It was given at Nagoya Institute of Technology, Tokuda lab, and Aalto University, Paavo Alku lab. Slide is `here 3 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AACZVX1Tf9Qw1MUc2YHQKf4Ia/web/20180111-Nagoya-ARmodels.pdf?raw=1>`_
 
 
 Conference presentation
 =======================
+
 Anti-spoofing: Interspeech 2021 presentation for `Comparative study on ASVspoof 2019 LA, PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAbQM0rKGea4t5i5m6rn_F_a/web/2021-interspeech-Fri-M-V-7-1.pdf?raw=1>`_. Codes are available at `git repo project/03-asvspoof-mega <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts>`_
 
 NSF model (latest ver.): Interspeech 2020 presentation for cyclic-noise-NSF -- `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAMoAEj77_oy4FmG0rkCTWwa/web/2020-interspech.pptx?raw=1>`_ and `PDF slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD0BZlZh4TexeLs3VQVY0kJa/web/2020-interspech.pdf?raw=1>`_ . Natural samples are from `CMU-arctic <http://www.festvox.org/cmu_arctic/>`_

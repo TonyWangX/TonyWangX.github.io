@@ -75,8 +75,9 @@ Reviewer
 
  * IEICE Trans on Information and Systems
 
-Chair
- * Interspeech 2021
+Session chair
+
+ * Interspeech 2021, SSW 2019
 
  
 Grants
@@ -115,6 +116,8 @@ Journal & book chapter
 #. **Xin Wang**, Zhen-Hua Ling, and Li-Rong Dai. 2016. Concept-to-Speech Generation with Knowledge Sharing for Acoustic Modelling and Utterance Filtering. Computer Speech & Language 38 (July). Elsevier: 46–67. doi:10.1016/j.csl.2015.12.003.
 
 #. **Xin Wang**, Shinji Takaki, and Junichi Yamagishi. 2016. Investigation of Using Continuous Representation of Various Linguistic Units in Neural Network Based Text-to-Speech Synthesis. IEICE Transactions on Information and Systems E99.D (10): 2471–2480. doi:10.1587/transinf.2016SLP0011.
+
+#. Brij Mohan Lal Srivastava, Mohamed Maouche, Md Sahidullah, Emmanuel Vincent, Aurélien Bellet, Marc Tommasi, Natalia Tomashenko, **Xin Wang**, and Junichi Yamagishi. Privacy and Utility of X-Vector Based Speaker Anonymization. IEEE/ACM Transactions on Audio, Speech, and Language Processing 30. IEEE: 2383–2395. 2022.
    
 #. Natalia Tomashenko, **Xin Wang**, Emmanuel Vincent, Jose Patino, Brij Mohan Lal Srivastava, Paul-Gauthier Noé, Andreas Nautsch, Nicholas Evans, Junichi Yamagishi, Benjamin O’Brien, Anaïs Chanclu, Jean-François Bonastre, Massimiliano Todisco, and Mohamed Maouche. The VoicePrivacy 2020 Challenge: Results and Findings. Computer Speech & Language, February, 101362. doi:10.1016/j.csl.2022.101362. 2022. 
 
@@ -132,13 +135,13 @@ Conference
 
 #. **Xin Wang**, and Junichi Yamagishi. Investigating Self-Supervised Front Ends for Speech Spoofing Countermeasures. Proc. Odyssey. 2022.
 
-#. Hemlata Tak, Massimiliano Todisco, **Xin Wang**, Jee-weon Jung, Junichi Yamagishi, and Nicholas Evans. Automatic Speaker Verification Spoofing and Deepfake Detection Using Wav2vec 2.0 and Data Augmentation. In Proc. Odyssey 2022 The Speaker and Language Recognition Workshop. Vol. accepted. 2022.
+#. Hemlata Tak, Massimiliano Todisco, **Xin Wang**, Jee-weon Jung, Junichi Yamagishi, and Nicholas Evans. Automatic Speaker Verification Spoofing and Deepfake Detection Using Wav2vec 2.0 and Data Augmentation. In Proc. Odyssey. 2022.
 
-#. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi, and Natalia Tomashenko. Language-Independent Speaker Anonymization Approach Using Self-Supervised Pre-Trained Models. In Proc. Odyssey, (accepted). 2022.
+#. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi, and Natalia Tomashenko. Language-Independent Speaker Anonymization Approach Using Self-Supervised Pre-Trained Models. In Proc. Odyssey. 2022.
 
-#. **Xin Wang**, and Junichi Yamagishi. Estimating the Confidence of Speech Spoofing Countermeasure. In Proc. ICASSP, (accepted). 2022.
+#. **Xin Wang**, and Junichi Yamagishi. Estimating the Confidence of Speech Spoofing Countermeasure. In Proc. ICASSP. 2022.
 
-#. Chang Zeng, **Xin Wang**, Erica Cooper, Xiaoxiao Miao, and Junichi Yamagishi. Attention Back-End for Automatic Speaker Verification with Multiple Enrollment Utterances. In Proc. ICASSP, (accepted). http://arxiv.org/abs/2104.01541. 2022.
+#. Chang Zeng, **Xin Wang**, Erica Cooper, Xiaoxiao Miao, and Junichi Yamagishi. Attention Back-End for Automatic Speaker Verification with Multiple Enrollment Utterances. In Proc. ICASSP. 2022.
 
 #. Erica Cooper, **Xin Wang**, and Junichi Yamagishi. Text-to-Speech Synthesis Techniques for MIDI-to-Audio Synthesis. In Proc. 11th ISCA Speech Synthesis Workshop (SSW 11), 130–135. doi:10.21437/SSW.2021-23. 2021.
    
@@ -234,6 +237,10 @@ Conference
 
 Talk
 ====
+
+(check :ref:`label-slide` to download slides)
+
+* 2022 May, ``ICASSP short course: inclusive Neural Speech Synthesis - neural vocoder part``. ICASSP 2022. The materials for ICASSP short course on neural vocoders are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. The old contents are re-edited, and new contents are available. 
 
 * 2021 Dec, ``Two speech security issues after the speech synthesis boom``. Speech Synthesis Forum, China Computer Federation. `Slides here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
   
