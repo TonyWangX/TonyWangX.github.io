@@ -64,7 +64,7 @@ It was a very long tutorial (>3 hours). Slides are `on slideshare <https://www.s
 The hands-on materials were re-edited and uploaded to Google Colab. See :ref:`ICASSP 2022 short course: neural vocoder <label-slide-2022-may-1>`.
 
 
-.. _label-slide-2020-nov-2:
+.. _label-slide-2020-dec-1:
 
 2020-DEC
 --------
