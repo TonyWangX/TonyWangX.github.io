@@ -13,21 +13,35 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+
+.. _label-slide-2022-sep-1:
+
+
+SEP-2022
+--------
+**SPSC Symposium: tutorial on speaker anonymization (software part)**
+
+This short tutorial shows the basic process of speaker anonymization, using baselines in Voice Privacy Challenge 2022.
+
+The hands-on notebook is available on `Google Colab <https://colab.research.google.com/drive/1_zRL_f9iyDvl_5Y2Rdakg0hYAl_5Rgyq?usp=sharing>`__.
+
+
 .. _label-slide-2022-may-1:
 
-2022-MAY
+
+MAY-2022
 --------
 
 **ICASSP 2022 short course: neural vocoder**
 
 This talk briefly summarizes a few representative neural vocoders. For a more detailed talk, please check :ref:`the slide for Advancement in Neural Vocoders <label-slide-2021-jul-1>`.
 
-The hands-on materials used for this short course cover a few latest neural vocoders. There are step-to-step instructions on implementation, demonstration with pre-trained models, and detailed explanation on some common DSP and deep learning techniques. Please check `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. 
+The hands-on materials used for this short course cover a few latest neural vocoders. There are step-to-step instructions on implementation, demonstration with pre-trained models, and detailed explanation on some common DSP and deep learning techniques. Please check `Google Colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. 
 
 
 .. _label-slide-2021-dec-1:
 
-2021-DEC
+DEC-2021
 --------
 
 **Two Speech Security Issues after Speech Synthesis Boom**
@@ -39,7 +53,7 @@ The slide can be found `on dropbox here <https://www.dropbox.com/sh/gf3zp00qvdp3
 
 .. _label-slide-2021-oct-1:
 
-2021-OCT
+OCT-2021
 --------
 
 **DeepFake: high-tech illusions to deceive human brains**
@@ -52,7 +66,7 @@ Here is the part presented by me: `Agora PDF <https://www.dropbox.com/sh/gf3zp00
 
 .. _label-slide-2021-jul-1:
 
-2021-JUL
+JUL-2021
 --------
 
 **Advancement in Neural Vocoders**
@@ -66,7 +80,7 @@ The hands-on materials were re-edited and uploaded to Google Colab. See :ref:`IC
 
 .. _label-slide-2020-dec-1:
 
-2020-DEC
+DEC-2020
 --------
 
 **Tutorial on Neural statistical parametric speech synthesis**
@@ -85,7 +99,7 @@ There many audios samples collected from reference papers' official websites or 
 
 .. _label-slide-2020-nov-1:
 
-2020-NOV
+NOV-2020
 --------
 **Neural vocoders for speech and music signals**
 
@@ -96,7 +110,7 @@ Nothing can be disclosed.
 
 .. _label-slide-2020-jul-1:
 
-2020-JUL
+JUL-2020
 --------
 
 **Neural auto-regressive, source-filter and glottal vocoders for speech and music signals**
@@ -108,7 +122,7 @@ The hands-on materials were re-edited and uploaded to Google Colab. See :ref:`IC
 
 .. _label-slide-2019-sep-1:
 
-2019-SEP
+SEP-2019
 --------
 **Neural waveform models for text-to-speech synthesis**
 
@@ -122,7 +136,7 @@ Slide is `here 1 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAByUSX6u4O51bGHpIF
 
 .. _label-slide-2019-jan-1:
 
-2019-JAN
+JAN-2019
 --------
 **Tutorial on recent neural waveform models**
 
@@ -132,7 +146,7 @@ IEICE Technical Committee on Speech (SP), invited tutorial, Kanazawa, Japan. Sli
 
 .. _label-slide-2018-jan-1:
 
-2018-JAN
+JAN-2018
 --------
 **Autoregressive neural networks for parametric speech synthesis**
 

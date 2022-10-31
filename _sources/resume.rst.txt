@@ -55,8 +55,8 @@ Academic activity
 
 Organizer
 
- * ISCA `ASVspoof challenges <https://www.asvspoof.org/>`_ 2021, 2019
- * Voice Privacy `initiaties <https://www.voiceprivacychallenge.org>`_ 
+ * `ASVspoof5 <https://www.asvspoof.org/>`_, ASVspoof challenges 2021, 2019
+ * `Voice Privacy Challenge <https://www.voiceprivacychallenge.org>`_ 2022, 2020 
  * APSIPA ASC 2019 special session on `Deep Generative Models for Media Clones and Its Detection <http://apsipa2019.org/SpecialSessions.html>`_
  * ISCA Interspeech 2019 special session on `Automatic Speaker Verification Spoofing and Countermeasures Challenge 2019 (ASVSpoof 2019) <https://www.interspeech2019.org/program/special_sessions_and_challenges>`_
  * IEEE ASRU 2019 special session on `ASVspoof 2019 <http://asru2019.org/wp/?page_id=622>`_
@@ -69,15 +69,15 @@ Reviewer
 
  * IEEE/ACM TASLP, TBIOM, Signal processing letters, ICASSP, EUSIPCO
 
- * Elsevier Computer speech \& language 
+ * Elsevier Computer speech \& language, Speech Communication 
 
- * ISCA Interspeech, Speech synthesis workshop
+ * ISCA Interspeech, Speech synthesis workshop, Odyssey workshop
 
  * IEICE Trans on Information and Systems
 
 Session chair
 
- * Interspeech 2021, SSW 2019
+ * `ACM MM 2022 DDAM Workshop <https://dl.acm.org/doi/proceedings/10.1145/3552466>`_, `ASVspoof workshop 2021 <https://www.isca-speech.org/archive/asvspoof_2021/index.html>`_, Interspeech 2021, SSW 2019.
 
  
 Grants
@@ -133,13 +133,15 @@ Journal & book chapter
 
 Conference 
 
-#. **Xin Wang**, and Junichi Yamagishi. Investigating Self-Supervised Front Ends for Speech Spoofing Countermeasures. Proc. Odyssey. 2022.
+#. **Xin Wang**, and Junichi Yamagishi. Investigating Active-Learning-Based Training Data Selection for Speech Spoofing Countermeasure. In Proc. SLT, accepted. 2023.
 
-#. Hemlata Tak, Massimiliano Todisco, **Xin Wang**, Jee-weon Jung, Junichi Yamagishi, and Nicholas Evans. Automatic Speaker Verification Spoofing and Deepfake Detection Using Wav2vec 2.0 and Data Augmentation. In Proc. Odyssey. 2022.
+#. **Xin Wang**, and Junichi Yamagishi. Investigating Self-Supervised Front Ends for Speech Spoofing Countermeasures. Proc. Odyssey. 100-106, 2022 .
 
-#. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi, and Natalia Tomashenko. Language-Independent Speaker Anonymization Approach Using Self-Supervised Pre-Trained Models. In Proc. Odyssey. 2022.
+#. Hemlata Tak, Massimiliano Todisco, **Xin Wang**, Jee-weon Jung, Junichi Yamagishi, and Nicholas Evans. Automatic Speaker Verification Spoofing and Deepfake Detection Using Wav2vec 2.0 and Data Augmentation. In Proc. Odyssey. 112-119, 2022.
 
-#. **Xin Wang**, and Junichi Yamagishi. Estimating the Confidence of Speech Spoofing Countermeasure. In Proc. ICASSP. 2022.
+#. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi, and Natalia Tomashenko. Language-Independent Speaker Anonymization Approach Using Self-Supervised Pre-Trained Models. In Proc. Odyssey, 279-286, 2022.
+
+#. **Xin Wang**, and Junichi Yamagishi. Estimating the Confidence of Speech Spoofing Countermeasure. In Proc. ICASSP. 6372-6376, 2022.
 
 #. Chang Zeng, **Xin Wang**, Erica Cooper, Xiaoxiao Miao, and Junichi Yamagishi. Attention Back-End for Automatic Speaker Verification with Multiple Enrollment Utterances. In Proc. ICASSP. 2022.
 
@@ -239,6 +241,8 @@ Talk
 ====
 
 (check :ref:`label-slide` to download slides)
+
+* 2022 Sep, ``SPSC Symposium: tutorial on speaker anonymization (software part)``. The hands-on notebook is available on `Google Colab <https://colab.research.google.com/drive/1_zRL_f9iyDvl_5Y2Rdakg0hYAl_5Rgyq?usp=sharing>`__.
 
 * 2022 May, ``ICASSP short course: inclusive Neural Speech Synthesis - neural vocoder part``. ICASSP 2022. The materials for ICASSP short course on neural vocoders are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. The old contents are re-edited, and new contents are available. 
 
