@@ -23,6 +23,15 @@ Here is my :ref:`label-resume`.
 Messages
 ========
 
+*2023.03.06*
+       Slides for SPSC webinar presentation on "Using vocoders to create spoofed training data for speech spoofing countermeasures" can be found in `Slide page <http://tonywangx.github.io/slide.html#mar-2023>`__.
+       This is a presentation for `ICASSP 2023 paper <https://arxiv.org/abs/2210.10570>`__. The code, pre-trained models, and other resources are available at `this repo <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/project/09-asvspoof-vocoded-trn>`__.
+
+*2022.09.30*
+
+       The materials tutorials (Jupyter notebook) on speaker anonymization is available at `Slide page <http://tonywangx.github.io/slide.html#sep-2022>`__. 
+
+
 *2022.05.27*
 
        The materials for ICASSP short course on neural vocoders are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. The old contents are re-edited, and new contents are available (including NSF-HiFiGAN). 

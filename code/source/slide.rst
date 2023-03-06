@@ -13,6 +13,17 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+.. _label-slide-2023-mar-1:
+
+
+MAR-2023
+--------
+**SPSC Webinar: using vocoders to create spoofed data for speech spoofing countermeasures**
+
+for `ICASSP 2023 paper <https://arxiv.org/abs/2210.10570>`__ "Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocoders".  
+
+Slides `in PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAA8o9fpoJV27JL2y02_p46Ea/web/20230306_spsc_webinar_xinwang.pdf>`__ and `PPTX <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABdRnr6WPKr0cI4DU32FPN2a/web/20230306_spsc_webinar_xinwang.pptx>`__
+
 
 .. _label-slide-2022-sep-1:
 

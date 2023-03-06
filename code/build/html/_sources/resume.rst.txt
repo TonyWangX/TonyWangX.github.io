@@ -117,6 +117,8 @@ Journal & book chapter
 
 #. **Xin Wang**, Shinji Takaki, and Junichi Yamagishi. 2016. Investigation of Using Continuous Representation of Various Linguistic Units in Neural Network Based Text-to-Speech Synthesis. IEICE Transactions on Information and Systems E99.D (10): 2471–2480. doi:10.1587/transinf.2016SLP0011.
 
+#. Lin Zhang, **Xin Wang**, Erica Cooper, Nicholas Evans, and Junichi Yamagishi. The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 1–13. doi:10.1109/TASLP.2022.3233236. 2022.
+
 #. Brij Mohan Lal Srivastava, Mohamed Maouche, Md Sahidullah, Emmanuel Vincent, Aurélien Bellet, Marc Tommasi, Natalia Tomashenko, **Xin Wang**, and Junichi Yamagishi. Privacy and Utility of X-Vector Based Speaker Anonymization. IEEE/ACM Transactions on Audio, Speech, and Language Processing 30. IEEE: 2383–2395. 2022.
    
 #. Natalia Tomashenko, **Xin Wang**, Emmanuel Vincent, Jose Patino, Brij Mohan Lal Srivastava, Paul-Gauthier Noé, Andreas Nautsch, Nicholas Evans, Junichi Yamagishi, Benjamin O’Brien, Anaïs Chanclu, Jean-François Bonastre, Massimiliano Todisco, and Mohamed Maouche. The VoicePrivacy 2020 Challenge: Results and Findings. Computer Speech & Language, February, 101362. doi:10.1016/j.csl.2022.101362. 2022. 
@@ -130,10 +132,15 @@ Journal & book chapter
 #. Tomi Kinnunen, Hector Delgado, Nicholas Evans, Kong Aik Lee, Ville Vestman, Andreas Nautsch, Massimiliano Todisco, **Xin Wang**, Md Sahidullah, Junichi Yamagishi, and Douglas A Reynolds. 2020. Tandem Assessment of Spoofing Countermeasures and Automatic Speaker Verification: Fundamentals. IEEE/ACM Transactions on Audio, Speech, and Language Processing. IEEE.
 
 
+Conference
 
-Conference 
+#. **Xin Wang**, and Junichi Yamagishi. Spoofed Training Data for Speech Spoofing Countermeasure Can Be Efficiently Created Using Neural Vocoders. In Proc. ICASSP, (accepted). 2023.
 
-#. **Xin Wang**, and Junichi Yamagishi. Investigating Active-Learning-Based Training Data Selection for Speech Spoofing Countermeasure. In Proc. SLT, accepted. 2023.
+#. Xuan Shi, Erica Cooper, **Xin Wang**, Junichi Yamagishi, Shrikanth Narayanan. Can Knowledge of End-to-End Text-to-Speech Models Improve Neural MIDI-to-Audio Synthesis Systems? In Proc. ICASSP, (accepted), 2023.
+
+#. Paul-Gauthier Noé, Xiaoxiao Miao, **Xin Wang**, Junichi Yamagishi, Jean-Francois Bonastre, Driss Matrouf. Hiding speaker's sex in speech using zero-evidence speaker representation in an analysis/synthesis pipeline. In Proc. ICASSP, (accepted), 2023
+   
+#. **Xin Wang**, and Junichi Yamagishi. Investigating Active-Learning-Based Training Data Selection for Speech Spoofing Countermeasure. In Proc. SLT, 585-592. 2023.
 
 #. **Xin Wang**, and Junichi Yamagishi. Investigating Self-Supervised Front Ends for Speech Spoofing Countermeasures. Proc. Odyssey. 100-106, 2022 .
 
@@ -242,6 +249,8 @@ Talk
 
 (check :ref:`label-slide` to download slides)
 
+* 2023 Mar, ``SPSC webinar: using vocoders to create training data for speech spoofing countermeasure``. The slides are available `in PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAA8o9fpoJV27JL2y02_p46Ea/web/20230306_spsc_webinar_xinwang.pdf>`__ and `PPTX <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABdRnr6WPKr0cI4DU32FPN2a/web/20230306_spsc_webinar_xinwang.pptx>`__.
+  
 * 2022 Sep, ``SPSC Symposium: tutorial on speaker anonymization (software part)``. The hands-on notebook is available on `Google Colab <https://colab.research.google.com/drive/1_zRL_f9iyDvl_5Y2Rdakg0hYAl_5Rgyq?usp=sharing>`__.
 
 * 2022 May, ``ICASSP short course: inclusive Neural Speech Synthesis - neural vocoder part``. ICASSP 2022. The materials for ICASSP short course on neural vocoders are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. The old contents are re-edited, and new contents are available. 
@@ -282,7 +291,7 @@ Language
 ========
 * Mandarin
 * English (Toefl 2015, 112/120)
-* Japanese (N1, 2021 Dec)
+* Japanese (N1, 2021 Dec, 169/180)
   
 .. toctree::
    :hidden:
