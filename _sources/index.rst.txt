@@ -29,7 +29,7 @@ Messages
 
 *2022.09.30*
 
-       The materials tutorials (Jupyter notebook) on speaker anonymization is available at `Slide page <http://tonywangx.github.io/slide.html#sep-2022>`__. 
+       Jupyter notebook of the tutorials on speaker anonymization is available at `Slide page <http://tonywangx.github.io/slide.html#sep-2022>`__. 
 
 
 *2022.05.27*

@@ -117,6 +117,8 @@ Journal & book chapter
 
 #. **Xin Wang**, Shinji Takaki, and Junichi Yamagishi. 2016. Investigation of Using Continuous Representation of Various Linguistic Units in Neural Network Based Text-to-Speech Synthesis. IEICE Transactions on Information and Systems E99.D (10): 2471–2480. doi:10.1587/transinf.2016SLP0011.
 
+#. Md Sahidullah, Héctor Delgado, Massimiliano Todisco, Andreas Nautsch, **Xin Wang**, Tomi Kinnunen, Nicholas Evans, Junichi Yamagishi, and Kong-Aik Lee. Introduction to Voice Presentation Attack Detection and Recent Advances. In Handbook of Biometric Anti-Spoofing, 339–385. Springer. doi:10.1007/978-981-19-5288-3_13. 2023.
+
 #. Lin Zhang, **Xin Wang**, Erica Cooper, Nicholas Evans, and Junichi Yamagishi. The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 1–13. doi:10.1109/TASLP.2022.3233236. 2022.
 
 #. Brij Mohan Lal Srivastava, Mohamed Maouche, Md Sahidullah, Emmanuel Vincent, Aurélien Bellet, Marc Tommasi, Natalia Tomashenko, **Xin Wang**, and Junichi Yamagishi. Privacy and Utility of X-Vector Based Speaker Anonymization. IEEE/ACM Transactions on Audio, Speech, and Language Processing 30. IEEE: 2383–2395. 2022.
