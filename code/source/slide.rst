@@ -13,8 +13,18 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
-.. _label-slide-2023-mar-1:
 
+.. _label-slide-2023-aug-1:
+
+AUG-2023
+--------
+**Interspeech Tutorial: anti-spoofing**
+
+Interspeech 2023 tutorial Advances in audio anti-spoofing and deepfake detection using graph neural networks and self-supervised learning.
+
+Slides and notebook are available on `github <https://github.com/Jungjee/INTERSPEECH2023_T6>`__.
+
+.. _label-slide-2023-mar-1:
 
 MAR-2023
 --------

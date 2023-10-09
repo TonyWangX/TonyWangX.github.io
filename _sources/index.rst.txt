@@ -15,13 +15,18 @@ I am Xin Wang, a postdoc researcher at Yamagishi Lab, National Institute of Info
 
 I am studying speech processing and machine learning, and I learned a lot from my supervisors at NII and USTC and many colleagues around the world.
 
-My `Researchmap site <https://researchmap.jp/wangxin?lang=en>`_ and `Google Scholar page <https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en>`_. Researchmap is the official website for researchers in Japan to upload research outcomes.
+My `Researchmap site <https://researchmap.jp/wangxin?lang=en>`_ and `Google Scholar page <https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en>`_. Researchmap is the official website for researchers in Japan.
 
 Here is my :ref:`label-resume`.
 
 
 Messages
 ========
+*2023.10.01*
+       My JST PRESTO project official starts. It is about speech anti-spoofing, privacy, and verification. See more in `this post <https://www.linkedin.com/posts/xin-wang-227200259_dear-colleagues-and-friends-on-oct1-activity-7115140484137684992-gMxY?utm_source=share&utm_medium=member_desktop>`__. My title is also promoted to Project Associate Professor.
+
+*2023.08.20*
+       Interspeech 2023 tutorial on anti-spoofing has been uploaded to `Github <https://github.com/Jungjee/INTERSPEECH2023_T6>`__.
 
 *2023.03.06*
        Slides for SPSC webinar presentation on "Using vocoders to create spoofed training data for speech spoofing countermeasures" can be found in `Slide page <http://tonywangx.github.io/slide.html#mar-2023>`__.
