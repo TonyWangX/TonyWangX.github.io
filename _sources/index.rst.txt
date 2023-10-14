@@ -117,5 +117,6 @@ Please send email to wangxin ~a~t~ nii dot ac dot jp.
 
    self
    resume
-   Research work <research>
+   Research overview <research>
+   Research PRESTO <presto>
    Talk & slides <slide>
