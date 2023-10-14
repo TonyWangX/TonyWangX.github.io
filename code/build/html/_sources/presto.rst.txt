@@ -10,14 +10,23 @@ JST PRESTO Project
 
 This is the home page of JST PRESTO project:
 
-* Title: Unified Framework for Speech Privacy Protection and Fake Voice Detection
-* Period: 2023/10/01 - 2027/03/31
+    **Unified Framework for Speech Privacy Protection and Fake Voice Detection**
+
+    **プライバシー保護と偽音声検出を統合する音声データ処理基盤**
+
+    
+.. image:: pic/figure_presto.jpg 
+
+**Information**:
+
 * PI: Xin Wang
-* Research area: `Strengthening ICT Infrastructure for Social Change <https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/area2021-3.html>`__
+* Period: 2023/10/01 - 2027/03/31
+* Research area: `社会変革に向けたICT基盤強化 Strengthening ICT Infrastructure for Social Change <https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/area2021-3.html>`__
 
 **Background**: The era of infodemics calls for a speech data processing system that can detect deepfake voices and anonymize speech privacy. However, existing fake voice detection and anonymization methods are independently designed, lacking joint optimization and theoretical support.
 
 **Core ida**: This proposal tries to unify fake voice detection and voice anonymization within a deep learning framework based on likelihood ratios.
+
 
 
 Highlight
