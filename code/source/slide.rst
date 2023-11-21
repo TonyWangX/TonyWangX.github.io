@@ -13,6 +13,16 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+.. _label-slide-2023-nov-1:
+
+NOV-2023
+--------
+**VoicePersonae workshop talk: DNN+DSP waveform model**
+
+An overview talk given at VoicePersonae workshop. The title is From DSP and DNN to DNN/DSP: Neural speech waveform models and its applications in speech and music audio waveform modelling.
+
+Slides can be downloaded here `dropbox <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD7uQRQpnJsbverEVlrl2OBa/web?dl=0&preview=20231121_VoicePersonae_DSP-NDSP.pdf>`__.
+
 
 .. _label-slide-2023-aug-1:
 
