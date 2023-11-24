@@ -17,7 +17,14 @@ Talk
 
 NOV-2023
 --------
-**VoicePersonae workshop talk: DNN+DSP waveform model**
+
+**VoicePersonae workshop talk 2: Harnessing data to improve speech spoofing countermeasures**
+
+High-level summary of the talk to use vocoded data to train speech anti-spoofing models.
+
+Slides can be downloaded here `dropbox <https://www.dropbox.com/sh/gf3zp00qvdp3row/AACIULzpbAQNmP6GjGSwnjAIa/web/20231122_ASVspoof_data.pdf>`__.
+
+**VoicePersonae workshop talk 1: DNN+DSP waveform model**
 
 An overview talk given at VoicePersonae workshop. The title is From DSP and DNN to DNN/DSP: Neural speech waveform models and its applications in speech and music audio waveform modelling.
 
