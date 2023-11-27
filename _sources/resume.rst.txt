@@ -76,7 +76,7 @@ Reviewer
 
 Session chair
 
- * `ACM MM 2022 DDAM Workshop <https://dl.acm.org/doi/proceedings/10.1145/3552466>`_, `ASVspoof workshop 2021 <https://www.isca-speech.org/archive/asvspoof_2021/index.html>`_, Interspeech 2021, SSW 2019.
+ * ICASSP 2023, `ACM MM 2022 DDAM Workshop <https://dl.acm.org/doi/proceedings/10.1145/3552466>`_, `ASVspoof workshop 2021 <https://www.isca-speech.org/archive/asvspoof_2021/index.html>`_, Interspeech 2021, SSW 2019.
 
  
 Grants
@@ -209,6 +209,12 @@ Talk
 
 (check :ref:`label-slide` to download slides)
 
+* 2023 Nov, VoicePersonae and ASVspoof workshop (link :ref:`label-slide-2023-nov-1`):
+
+  * Talk 1: ``From DSP and DNN to DNN+DSP for waveform model``
+
+  * Talk 2: ``Harnessing data to improving speech spoofing countermeasure``
+   
 * 2023 Aug, ``Interspeech 2023 tutorial: Advances in audio anti-spoofing and deepfake detection using graph neural networks and self-supervised learning``. Materials are available on `github <https://github.com/Jungjee/INTERSPEECH2023_T6>`__.
 
 * 2023 Mar, ``SPSC webinar: using vocoders to create training data for speech spoofing countermeasure``. The slides are available `in PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAA8o9fpoJV27JL2y02_p46Ea/web/20230306_spsc_webinar_xinwang.pdf>`__ and `PPTX <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABdRnr6WPKr0cI4DU32FPN2a/web/20230306_spsc_webinar_xinwang.pptx>`__.
