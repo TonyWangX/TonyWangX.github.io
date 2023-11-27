@@ -30,6 +30,15 @@ An overview talk given at VoicePersonae workshop. The title is From DSP and DNN 
 
 Slides can be downloaded here `dropbox <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD7uQRQpnJsbverEVlrl2OBa/web?dl=0&preview=20231121_VoicePersonae_DSP-NDSP.pdf>`__.
 
+.. _label-slide-2023-oct-31:
+
+OCT-2023
+--------
+**Shonan Seminar: casual presentation**
+
+During the No.182 Shonan Seminar  https://shonan.nii.ac.jp/seminars/182/, I had chance to introduce voice privacy.
+
+Slides are available on `dropbox <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABwpFTp7e7E7T7O8QKinQYRa/web/20231102_shonan-seminar-v1.pdf>`__.
 
 .. _label-slide-2023-aug-1:
 

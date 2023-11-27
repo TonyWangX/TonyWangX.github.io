@@ -47,7 +47,7 @@ Outcome
     
   * Place: Shonan Village, JP
 
-  * Slide: (to be uploaded)
+  * Slide: :ref:`label-slide-2023-oct-31`.
 
 * Keynote talk: Harnessing data for improving speech spoofing countermeasures
   
@@ -56,7 +56,7 @@ Outcome
     
   * Place: NII, JP
 
-  * Slide: (to be uploaded)
+  * Slide: :ref:`label-slide-2023-nov-1`.
     
 .. toctree::
    :hidden:
