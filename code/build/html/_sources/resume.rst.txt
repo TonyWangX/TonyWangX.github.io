@@ -66,13 +66,13 @@ Guest editor
 
 Reviewer
 
- * IEEE/ACM TASLP, TBIOM, Signal processing letters, ICASSP, EUSIPCO
+ * IEEE TASLP, TBIOM, TIFS, SPL, ICASSP, ASRU, SLT
 
- * Elsevier Computer speech \& language, Speech Communication 
-
- * ISCA Interspeech, Speech synthesis workshop, Odyssey workshop
+ * ISCA Interspeech, Speech synthesis workshop, Odyssey workshop, Computer speech \& language, Speech Communication
 
  * IEICE Trans on Information and Systems
+
+ * EUSIPCO, BIOSIG
 
 Session chair
 
@@ -81,19 +81,19 @@ Session chair
  
 Grants
 ======
-* 2023 - 2027, Unified framework for speech privacy protection and anti-spoofing, JST, PRESTO, investigator: Xin Wang
+* 2023 - 2027, **JST, PRESTO**: Unified framework for speech privacy protection and anti-spoofing. PI: Xin Wang.
 
-* 2021 - 2023, Speech privacy protection by high-quality, invertible, and extendable speech anonymization and de-anonymization, JSPS, Wakate, 21K17775, investigator: Xin Wang
+* 2021 - 2023, **JSPS, Wakate (21K17775)**: Speech privacy protection by high-quality, invertible, and extendable speech anonymization and de-anonymization. PI: Xin Wang.
 
-* 2020 - 2021, Deep-learning-based neural source-filtering models for fast and high-quality music signal generation, KAWAI, investigator: Xin Wang
+* 2020 - 2021, **KAWAI**: Deep-learning-based neural source-filtering models for fast and high-quality music signal generation. PI: Xin Wang.
 
-* 2021 - 2022, Enhanced End-to-End Multi-Instrument MIDI/sheet-to-Music Synthesis with Timber and Style Transfer, JST AIP Challenge, investigator: Xin Wang
+* 2021 - 2022, **JST AIP Challenge** Enhanced End-to-End Multi-Instrument MIDI/sheet-to-Music Synthesis with Timber and Style Transfer. PI: Xin Wang.
 
-* 2019 - 2021, One model for all sounds: fast and high-quality neural source-filter model for speech and non-speech waveform modeling, JSPS, grant-for-startup, 19K24371, investigator: Xin Wang
+* 2019 - 2021, **JSPS, grant-for-startup (19K24371)**: One model for all sounds: fast and high-quality neural source-filter model for speech and non-speech waveform modeling. PI: Xin Wang.
   
-* 2021 - 2022, Optimizing a Speech Anti-spoofing Database, Google Research grant, investigators: Junichi Yamagishi, Xin Wang, Eric Cooper
+* 2021 - 2022, **Google Research Grant**: Optimizing a Speech Anti-spoofing Database. PI:: Junichi Yamagishi. Collaborator: Xin Wang, Eric Cooper.
   
-* 2019 - 2020, AI Focused Research Awards Program in Japan: Robust and all-purpose neural source-filter models, Google, investigators: Junichi Yamagishi, Xin Wang, Eric Cooper
+* 2019 - 2020, **Google AI Focused Research Awards Program in Japa**: Robust and all-purpose neural source-filter models. PI: Junichi Yamagishi. Collaborator: Xin Wang, Eric Cooper.
 
 
 Publication
@@ -102,7 +102,7 @@ Publication
 Journal & book chapters
 -----------------------
 
-   Speech Synthesis
+   **Speech Synthesis**
 
 #. **Xin Wang**, Shinji Takaki, Junichi Yamagishi, Simon King and Keiichi Tokuda. A Vector Quantized Variational Autoencoder (VQ-VAE) Autoregressive Neural F0 Model for Statistical Parametric Speech SynthesisIEEE/ACM Transactions on Audio, Speech, and Language Processingvol: 28, pages 157-170. doi: 10.1109/TASLP.2019.2950099. 2020. 
 #. **Xin Wang**, Shinji Takaki and Junichi Yamagishi. Neural Source-Filter Waveform Models for Statistical Parametric Speech SynthesisIEEE/ACM Transactions on Audio, Speech, and Language Processingvol: 28, pages 402-415. doi: 10.1109/TASLP.2019.2956145. 2020. 
@@ -114,7 +114,7 @@ Journal & book chapters
 #. Shuhei Kato, Yusuke Yasuda, **Xin Wang**, Erica Cooper, Shinji Takaki and Junichi Yamagishi. Modeling of Rakugo Speech and Its Limitations: Toward Speech Synthesis That Entertains AudiencesIEEE Accessvol: 8, pages 138149-138161. doi: 10.1109/ACCESS.2020.3011975. 2020. 
 
 
-   Speech anti-spoofing
+   **Speech anti-spoofing**
 
 #. **Xin Wang**, Junichi Yamagishi, Massimiliano Todisco, H{\'{e}}ctor Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, S{\'{e}}bastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, Quan Wang, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Fran{\c{c}}ois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang and Zhen-Hua Ling. ASVspoof 2019: A large-scale public database of synthesized, converted and replayed speechComputer Speech \& Languagevol: 64, pages 101114. doi: 10.1016/j.csl.2020.101114. 2020. 
 #. Xuechen Liu, **Xin Wang**, Md Sahidullah, Jose Patino, H{\'{e}}ctor Delgado, Tomi Kinnunen, Massimiliano Todisco, Junichi Yamagishi, Nicholas Evans, Andreas Nautsch and Kong Aik Lee. ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the WildIEEE Trans. on Audio, Speech, and Language Processingpages (accepted). 2023. 
@@ -124,7 +124,7 @@ Journal & book chapters
 #. **Xin Wang** and Junichi Yamagishi. A Practical Guide to Logical Access Voice Presentation Attack DetectionFrontiers in Fake Media Generation and Detectionpages 169-214. doi: 10.1007/978-981-19-1524-6_8. 2022. 
 #. Md Sahidullah, H{\'{e}}ctor Delgado, Massimiliano Todisco, Andreas Nautsch, **Xin Wang**, Tomi Kinnunen, Nicholas Evans, Junichi Yamagishi and Kong-Aik Lee. Introduction to Voice Presentation Attack Detection and Recent AdvancesHandbook of Biometric Anti-Spoofingpages 339-385. doi: 10.1007/978-981-19-5288-3_13. 2023. 
 
-   Speaker anonymization
+   **Speaker anonymization**
 
 #. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi and Natalia Tomashenko. Language-Independent Speaker Anonymization Using Orthogonal {{Householder}} Neural NetworkIEEE/ACM Transactions on Audio, Speech, and Language Processingpages (accepted). 2023. 
 #. Natalia Tomashenko, **Xin Wang**, Emmanuel Vincent, Jose Patino, Brij Mohan Lal Srivastava, Paul-Gauthier No{\'{e}}, Andreas Nautsch, Nicholas Evans, Junichi Yamagishi, Benjamin O'Brien, Ana{\"{i}}s Chanclu, Jean-Fran{\c{c}}ois Bonastre, Massimiliano Todisco and Mohamed Maouche. The VoicePrivacy 2020 Challenge: Results and findingsComputer Speech \& Languagepages 101362. doi: https://doi.org/10.1016/j.csl.2022.101362. 2022. 
@@ -133,7 +133,7 @@ Journal & book chapters
 Conference
 ----------
 
-   Speech Synthesis
+   **Speech Synthesis**
 
 #. **Xin Wang** and Junichi Yamagishi. Using Cyclic Noise as the Source Signal for Neural Source-Filter-Based Speech Waveform ModelProc. Interspeechpages 1992-1996. doi: 10.21437/Interspeech.2020-1018. 2020. 
 #. **Xin Wang**, Shinji Takaki and Junichi Yamagishi. Neural Source-filter-based Waveform Model for Statistical Parametric Speech SynthesisProc. ICASSPpages 5916-5920. doi: 10.1109/ICASSP.2019.8682298. 2019. 
@@ -169,7 +169,7 @@ Conference
 #. Lauri Juvela, **Xin Wang**, Shinji Takaki, Manu Airaksinen, Junichi Yamagishi and Paavo Alku. Using text and acoustic features in predicting glottal excitation waveforms for parametric speech synthesis with recurrent neural networksProc. Interspeechpages 2283-2287. 2016. 
 
 
-   Speech anti-spoofing
+   **Speech anti-spoofing**
 
 #. **Xin Wang** and Junichi Yamagishi. Investigating Active-learning-based Training Data Selection for Speech Spoofing CountermeasureProc. SLTpages 585-592. 2023. 
 #. **Xin Wang** and Junichi Yamagishi. Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocodersProc. ICASSPpages (accepted). 2023. 
@@ -187,7 +187,7 @@ Conference
 #. Massimiliano Todisco, **Xin Wang**, Ville Vestman, Md. Sahidullah, H{\'{e}}ctor Delgado, Andreas Nautsch, Junichi Yamagishi, Nicholas Evans, Tomi H Kinnunen and Kong Aik Lee. ASVspoof 2019: future horizons in spoofed and fake audio detectionProc. Interspeechpages 1008-1012. doi: 10.21437/Interspeech.2019-2249. 2019. 
 
 
-   Speaker anonymization
+   **Speaker anonymization**
 
 #. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi and Natalia Tomashenko. Language-Independent Speaker Anonymization Approach Using Self-Supervised Pre-Trained Modelspages 279-286. doi: 10.21437/Odyssey.2022-39. 2022. 
 #. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi and Natalia Tomashenko. Analyzing Language-Independent Speaker Anonymization Framework under Unseen ConditionsProc. Interspeechpages 4426-4430. doi: 10.21437/Interspeech.2022-11065. 2022. 
@@ -197,7 +197,7 @@ Conference
 #. Fuming Fang, **Xin Wang**, Junichi Yamagishi, Isao Echizen, Massimiliano Todisco, Nicholas Evans and Jean-Francois Bonastre. Speaker anonymization using X-vector and neural waveform modelsProc. SSWpages 155-160. doi: 10.21437/SSW.2019-28. 2019. 
 
 
-   Other topics
+   **Other topics**
 
 #. Chang Zeng, **Xin Wang**, Erica Cooper, Xiaoxiao Miao and Junichi Yamagishi. Attention Back-end for Automatic Speaker Verification with Multiple Enrollment UtterancesProc. ICASSPpages (accepted). 2022. 
 #. Chen-Chou Lo, Szu-Wei Fu, Wen-Chin Huang, **Xin Wang**, Junichi Yamagishi, Yu Tsao and Hsin-Min Wang. MOSnet: deep learning-based objective assessment for voice conversionProc. Interspeechpages 1541-1545. doi: 10.21437/Interspeech.2019-2003. 2019. 
@@ -207,7 +207,7 @@ Conference
 Talk
 ====
 
-(check :ref:`label-slide` to download slides)
+(Slides are available in :ref:`label-slide`)
 
 * 2023 Nov, VoicePersonae and ASVspoof workshop (link :ref:`label-slide-2023-nov-1`):
 
@@ -215,31 +215,31 @@ Talk
 
   * Talk 2: ``Harnessing data to improving speech spoofing countermeasure``
    
-* 2023 Aug, ``Interspeech 2023 tutorial: Advances in audio anti-spoofing and deepfake detection using graph neural networks and self-supervised learning``. Materials are available on `github <https://github.com/Jungjee/INTERSPEECH2023_T6>`__.
+* 2023 Aug, Interspeech 2023 tutorial ``Advances in audio anti-spoofing and deepfake detection using graph neural networks and self-supervised learning``. Materials are available on `github <https://github.com/Jungjee/INTERSPEECH2023_T6>`__.
 
-* 2023 Mar, ``SPSC webinar: using vocoders to create training data for speech spoofing countermeasure``. The slides are available `in PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAA8o9fpoJV27JL2y02_p46Ea/web/20230306_spsc_webinar_xinwang.pdf>`__ and `PPTX <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABdRnr6WPKr0cI4DU32FPN2a/web/20230306_spsc_webinar_xinwang.pptx>`__.
+* 2023 Mar, SPSC webinar: ``using vocoders to create training data for speech spoofing countermeasure`` (link :ref:`label-slide-2023-mar-1`).
   
-* 2022 Sep, ``SPSC Symposium: tutorial on speaker anonymization (software part)``. The hands-on notebook is available on `Google Colab <https://colab.research.google.com/drive/1_zRL_f9iyDvl_5Y2Rdakg0hYAl_5Rgyq?usp=sharing>`__.
+* 2022 Sep, SPSC Symposium: ``tutorial on speaker anonymization (software part)`` (link :ref: `label-slide-2022-sep-1`).
 
-* 2022 May, ``ICASSP short course: inclusive Neural Speech Synthesis - neural vocoder part``. ICASSP 2022. The materials for ICASSP short course on neural vocoders are available on `Google colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. The old contents are re-edited, and new contents are available. 
+* 2022 May, ICASSP 2022 short course: ``inclusive Neural Speech Synthesis - neural vocoder part`` (link :ref:`label-slide-2022-may-1`). 
 
-* 2021 Dec, ``Two speech security issues after the speech synthesis boom``. Speech Synthesis Forum, China Computer Federation. `Slides here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+* 2021 Dec, Speech Synthesis Forum, China Computer Federation: ``Two speech security issues after the speech synthesis boom`` (link :ref:`label-slide-2021-oct-1`).
   
-* 2021 Oct, ``Deepfakes: High-tech Illusions to Trick the Human Brain.``, JST Science Agora 2021, pre-Agora event, with Sascha Frühholz (University of Zurich), Erica Cooper, Florence Steiner (University of Zurich). Video is `here <https://youtu.be/FfhiGFA0dg8>`_
+* 2021 Oct, JST Science Agora 2021, pre-Agora event: ``Deepfakes: High-tech Illusions to Trick the Human Brain.``, with Sascha Frühholz (University of Zurich), Erica Cooper, Florence Steiner (University of Zurich). Video is `here <https://youtu.be/FfhiGFA0dg8>`_
 
-* 2021 July, ``Advancement in Neural Vocoders``. Tutorial at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_. `Slides <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_
+* 2021 July, Tutorial at ISCA 2021 Speech Processing Courses in Crete: ``Advancement in Neural Vocoders``, with Prof. Yamagishi (link :ref:`label-slide-2021-jul-1`).
   
-* 2020 Nov., ``Neural statistical parametric speech synthesis``. Tutorial as ISCA 2020 Speaker Odyssey, Tokyo. `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_ are available.
+* 2020 Nov., Tutorial as ISCA 2020 Speaker Odyssey: ``Neural statistical parametric speech synthesis`` (link :ref:`label-slide-2020-dec-1`).
 
-* 2020 July, ``Neural auto-regressive, source-filter and glottal vocoders for speech and music signals``. Tutorial at ISCA 2020 Speech Processing Courses in Crete, with Prof. Yamagishi. Hands-on-materials on `github <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/tree/master/tutorials>`_.
+* 2020 July, Tutorial at ISCA 2020 Speech Processing Courses in Crete: ``Neural auto-regressive, source-filter and glottal vocoders for speech and music signals``, with Prof. Yamagishi (link :ref:`label-slide-2020-jul-1`).
 
-* 2019 Sep, ``Neural waveform models for text-to-speech synthesis``, Fraunhofer IIS, invited talk, Erlangen, Germany. Slide is `here 1 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAByUSX6u4O51bGHpIFlgy-ba/web/201909-FraunhoderIIS-neural-waveform-models.pdf?raw=1>`_
+* 2019 Sep, Fraunhofer IIS, invited talk: ``Neural waveform models for text-to-speech synthesis`` (link :ref:`label-slide-2019-sep-1`).
 
-* 2019 Jan, ``Tutorial on recent neural waveform models``, IEICE Technical Committee on Speech (SP), invited tutorial, Kanazawa, Japan. Slide is `here 2 <https://www.slideshare.net/jyamagis/tutorial-on-endtoend-texttospeech-synthesis-part-1-neural-waveform-modeling>`_
+* 2019 Jan, IEICE Technical Committee on Speech (SP), invited tutorial, Kanazawa, Japan: ``Tutorial on recent neural waveform models`` (link :ref:`label-slide-2019-jan-1`).
 
-* 2018 Nov, ``Autoregressive neural networks for parametric speech synthesis``, Nagoya Institute of Technology, Tokuda lab. Slide is `here 3 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AACZVX1Tf9Qw1MUc2YHQKf4Ia/web/20180111-Nagoya-ARmodels.pdf?raw=1>`_
+* 2018 Nov, Nagoya Institute of Technology, Tokuda lab: ``Autoregressive neural networks for parametric speech synthesis`` (link :ref:`label-slide-2018-jan-1`).
 
-* 2018 Jun, ``Autoregressive neural networks for parametric speech synthesis``, University of Eastern Finland, School of Computing, Aalto University, Paavo Alku lab (same content as above)
+* 2018 Jun, University of Eastern Finland and Aalto University ``Autoregressive neural networks for parametric speech synthesis`` (same content as above).
 
 
 Awards & scholarship
