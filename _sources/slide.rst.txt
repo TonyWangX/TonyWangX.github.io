@@ -95,7 +95,7 @@ DEC-2021
 
 This talk briefly introduces anti-spoofing (audio deepfake detection) and voice privacy. It is mainly for new comers to these fields.
 
-The slide can be found `on dropbox here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+The slide can be found `on dropbox here (PPTX) <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_, `(PDF) <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAANoSBvdc4y16CteakUcF9Ia/web/CCF-talk-2021.pdf>`_.
 
 
 .. _label-slide-2021-oct-1:
