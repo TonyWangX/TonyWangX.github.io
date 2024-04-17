@@ -13,6 +13,18 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+.. _label-slide-2024-apr-1:
+
+APR-2024
+--------
+
+**ICASSP 2024 presentation**: Can Large-Scale Vocoded Spoofed Data Improve Speech Spoofing Countermeasure with a Self-Supervised Front End?
+
+Using large-scale spoofed data to updated SSL front end of speech anti-spoofing model.
+
+* Paper: https://ieeexplore.ieee.org/document/10446331
+* Slides: `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABJVYX7cWN0h6ocsBRDvnoVa/web/20240418-ICASSP24-SLP.L20.2.pptx>`__ and `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAzSUKPDVpO-R2NpE8TIIqYa/web/20240418-ICASSP24-SLP.L20.2.pdf>`__
+
 .. _label-slide-2023-nov-1:
 
 NOV-2023

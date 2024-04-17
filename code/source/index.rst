@@ -22,6 +22,12 @@ Here is my :ref:`label-resume`.
 
 Messages
 ========
+*2024.04.18*
+       `Slides <http://tonywangx.github.io/slide.html#apr-2024>`__ for ICASSP paper: Can Large-Scale Vocoded Spoofed Data Improve Speech Spoofing Countermeasure with a Self-Supervised Front End? 
+
+*2023.11.20*
+      `Slides <http://tonywangx.github.io/slide.html#nov-2023>`__ for high-level summaries of DSP+DNN vocoders and another one on anti-spoofing using spoofed data.
+
 *2023.10.01*
        My JST PRESTO project official starts. It is about speech anti-spoofing, privacy, and verification. See more in `this post <https://www.linkedin.com/posts/xin-wang-227200259_dear-colleagues-and-friends-on-oct1-activity-7115140484137684992-gMxY?utm_source=share&utm_medium=member_desktop>`__. My title is also promoted to Project Associate Professor.
 
