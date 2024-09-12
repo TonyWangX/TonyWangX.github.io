@@ -13,6 +13,24 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+.. _label-slide-2024-sep-1:
+
+
+SEP-2024
+--------
+
+**Interspeech 2024 presentation**: Revisiting score fusion for spoofing-aware speaker verification
+
+* Paper: https://www.isca-archive.org/interspeech_2024/wang24l_interspeech.html
+* Slides: `PPT <https://www.dropbox.com/scl/fo/ykbnw4t8u09vbl9zyir4l/ACG6N9uyn68HYMkVBIWxnkU/web/20240903_A4-O2.3_3_XinWang_LLR.pptx?rlkey=1at87m1q157rlcx4jo933pxeb>`__ and `PDF <https://www.dropbox.com/scl/fo/ykbnw4t8u09vbl9zyir4l/AAvjun9BH9v6Hwo9nO7XhDs/web/20240903_A4-O2.3_3_XinWang_LLR.pdf?rlkey=1at87m1q157rlcx4jo933pxeb>`__
+* Github: https://github.com/nii-yamagishilab/SpeechSPC-mini
+
+
+**Interspeech 2024 survey talk**: Current trend in speech privacy and security
+
+* Slides (privacy part): `PDF <https://www.dropbox.com/scl/fo/ykbnw4t8u09vbl9zyir4l/ANV8WADTv5N4C1Y73XyfcNA/web/20240905_part_2_IS2024-survey.pdf?rlkey=1at87m1q157rlcx4jo933pxeb>`__
+
+
 .. _label-slide-2024-apr-1:
 
 APR-2024
