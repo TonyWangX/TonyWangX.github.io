@@ -13,8 +13,18 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
-.. _label-slide-2024-sep-1:
 
+.. _label-slide-2024-sep-2:
+
+SEP-24-2024
+-----------
+
+**APSIPA China-Japan Joint Symposium**: Introduction to the research of NII Yamagishi Lab
+
+* Slides (dropbox): `PPT <https://www.dropbox.com/scl/fi/h0x3l8suo61qlc83zoudc/NII_INTRO_v2.pptx?rlkey=72e5f05nrhzq4daucqfelocy6&st=ndbdw2pz&dl=0>`__ and `PDF <https://www.dropbox.com/scl/fi/zzjef5req3y32ykmad4dm/NII_INTRO_v2.pdf?rlkey=qma3vcm8veo9l3khn5bwa2r9j&st=rk52140k&dl=0>`__ 
+
+
+.. _label-slide-2024-sep-1:
 
 SEP-2024
 --------
