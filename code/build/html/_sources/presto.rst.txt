@@ -33,6 +33,17 @@ This is the home page of JST PRESTO project:
 Outcome
 -------
 
+* Research paper: ASVspoof 5: Crowdsourced Speech Data, Deepfakes, and Adversarial Attacks at Scale
+  
+  * Venue: Interspeech 2024
+
+  * Date: 2024/09
+
+  * Place: Greece, Kos
+
+  * Slide: :ref:`label-slide-asvspoof2024-1`.
+    
+
 * Research paper: Revisiting score fusion for spoofing-aware speaker verification
 
   * Venue: Interspeech 2024
@@ -41,7 +52,7 @@ Outcome
 
   * Place: Greece, Kos
 
-  * Slide: :ref:`label-slide-2024-sep-1`.
+  * Slide: :ref:`label-slide-is2024-1`.
   
 
 * Survey talk: Current trend in speech privacy and security
@@ -53,6 +64,7 @@ Outcome
   * Place: Greece, Kos
 
   * Slide: :ref:`label-slide-2024-sep-1`.
+
 
 * Invited talk: Voice privacy and security issues after the boom of speech synthesis technology
 

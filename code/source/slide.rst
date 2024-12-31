@@ -21,7 +21,7 @@ SEP-24-2024
 
 **APSIPA China-Japan Joint Symposium**: Introduction to the research of NII Yamagishi Lab
 
-* Slides (dropbox): `PPT <https://www.dropbox.com/scl/fi/h0x3l8suo61qlc83zoudc/NII_INTRO_v2.pptx?rlkey=72e5f05nrhzq4daucqfelocy6&st=ndbdw2pz&dl=0>`__ and `PDF <https://www.dropbox.com/scl/fi/zzjef5req3y32ykmad4dm/NII_INTRO_v2.pdf?rlkey=qma3vcm8veo9l3khn5bwa2r9j&st=rk52140k&dl=0>`__ 
+* Slides (gdrive): `PDF <https://drive.google.com/file/d/1bLBBX53C-eD-B7yNpgvlLCyNeUpw7-h2/view?usp=drive_link>`__ and `PPT <https://docs.google.com/presentation/d/125BBQTUFoj1Bv5UpKDSl7szJLIhPO82I/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__ 
 
 
 .. _label-slide-2024-sep-1:
@@ -32,13 +32,13 @@ SEP-2024
 **Interspeech 2024 presentation**: Revisiting score fusion for spoofing-aware speaker verification
 
 * Paper: https://www.isca-archive.org/interspeech_2024/wang24l_interspeech.html
-* Slides: `PPT <https://www.dropbox.com/scl/fo/ykbnw4t8u09vbl9zyir4l/ACG6N9uyn68HYMkVBIWxnkU/web/20240903_A4-O2.3_3_XinWang_LLR.pptx?rlkey=1at87m1q157rlcx4jo933pxeb>`__ and `PDF <https://www.dropbox.com/scl/fo/ykbnw4t8u09vbl9zyir4l/AAvjun9BH9v6Hwo9nO7XhDs/web/20240903_A4-O2.3_3_XinWang_LLR.pdf?rlkey=1at87m1q157rlcx4jo933pxeb>`__
+* Slides: `PDF <https://drive.google.com/file/d/11IlXr_XCcBB93wxj2pzeQNDLRm4OUfiM/view?usp=drive_link>`__ and `PDF <https://docs.google.com/presentation/d/1AdZbCSCShn4njkFKq6BGUD6tZlDakf9w/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
 * Github: https://github.com/nii-yamagishilab/SpeechSPC-mini
 
 
 **Interspeech 2024 survey talk**: Current trend in speech privacy and security
 
-* Slides (privacy part): `PDF <https://www.dropbox.com/scl/fo/ykbnw4t8u09vbl9zyir4l/ANV8WADTv5N4C1Y73XyfcNA/web/20240905_part_2_IS2024-survey.pdf?rlkey=1at87m1q157rlcx4jo933pxeb>`__
+* Slides (privacy part): `PDF <https://drive.google.com/file/d/1I71v6arn0Q5unMzfVJxlcRjsrf9vpKyY/view?usp=drive_link>`__
 
 
 .. _label-slide-2024-apr-1:
@@ -51,7 +51,7 @@ APR-2024
 Using large-scale spoofed data to updated SSL front end of speech anti-spoofing model.
 
 * Paper: https://ieeexplore.ieee.org/document/10446331
-* Slides: `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABJVYX7cWN0h6ocsBRDvnoVa/web/20240418-ICASSP24-SLP.L20.2.pptx>`__ and `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAzSUKPDVpO-R2NpE8TIIqYa/web/20240418-ICASSP24-SLP.L20.2.pdf>`__
+* Slides: `PDF <https://drive.google.com/file/d/1Iwph16smPFXAlCQjUPV2UKObdKe6C0jB/view?usp=drive_link>`__ and `PPT <https://docs.google.com/presentation/d/16Jf5r_1lDcA6EBmi_Mi6sWK5vRoJkjuo/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
 
 .. _label-slide-2023-nov-1:
 
@@ -62,13 +62,13 @@ NOV-2023
 
 High-level summary of the talk to use vocoded data to train speech anti-spoofing models.
 
-Slides can be downloaded here `dropbox <https://www.dropbox.com/sh/gf3zp00qvdp3row/AACIULzpbAQNmP6GjGSwnjAIa/web/20231122_ASVspoof_data.pdf>`__.
+Slides can be downloaded here `gdrive <https://drive.google.com/file/d/1UlDah9mXE2FehJMAaXsKzC2ZfkYbWR6H/view?usp=drive_link>`__.
 
 **VoicePersonae workshop talk 1: DNN+DSP waveform model**
 
 An overview talk given at VoicePersonae workshop. The title is From DSP and DNN to DNN/DSP: Neural speech waveform models and its applications in speech and music audio waveform modelling.
 
-Slides can be downloaded here `dropbox <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD7uQRQpnJsbverEVlrl2OBa/web?dl=0&preview=20231121_VoicePersonae_DSP-NDSP.pdf>`__.
+Slides can be downloaded here `gdrive <https://drive.google.com/file/d/1v8wI3gik4QEs40NGautZrlmS8xNbMm-l/view?usp=drive_link>`__.
 
 .. _label-slide-2023-oct-31:
 
@@ -78,7 +78,7 @@ OCT-2023
 
 During the No.182 Shonan Seminar  https://shonan.nii.ac.jp/seminars/182/, I had chance to introduce voice privacy.
 
-Slides are available on `dropbox <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABwpFTp7e7E7T7O8QKinQYRa/web/20231102_shonan-seminar-v1.pdf>`__.
+Slides are available on `gdrive <https://drive.google.com/file/d/115k8GzxBQiGB8E8x3zDmiI0qW7eoX4iw/view?usp=drive_link>`__.
 
 .. _label-slide-2023-aug-1:
 
@@ -98,7 +98,7 @@ MAR-2023
 
 for `ICASSP 2023 paper <https://arxiv.org/abs/2210.10570>`__ "Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocoders".  
 
-Slides `in PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAA8o9fpoJV27JL2y02_p46Ea/web/20230306_spsc_webinar_xinwang.pdf>`__ and `PPTX <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABdRnr6WPKr0cI4DU32FPN2a/web/20230306_spsc_webinar_xinwang.pptx>`__
+Slides `in PDF <https://drive.google.com/file/d/1vRKyMRLvb_WbOn-n5mbQbvW7tKIbdSxl/view?usp=drive_link>`__ and `PPTX <https://docs.google.com/presentation/d/1D5Qw7qFTIV27Wu3prTsaac3zsCgU8Bp6/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
 
 
 .. _label-slide-2022-sep-1:
@@ -123,7 +123,7 @@ MAY-2022
 
 This talk briefly summarizes a few representative neural vocoders. For a more detailed talk, please check :ref:`the slide for Advancement in Neural Vocoders <label-slide-2021-jul-1>`.
 
-The hands-on materials used for this short course cover a few latest neural vocoders. There are step-to-step instructions on implementation, demonstration with pre-trained models, and detailed explanation on some common DSP and deep learning techniques. Please check `Google Colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`_. 
+The hands-on materials used for this short course cover a few latest neural vocoders. There are step-to-step instructions on implementation, demonstration with pre-trained models, and detailed explanation on some common DSP and deep learning techniques. Please check `Google Colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`__. 
 
 
 .. _label-slide-2021-dec-1:
@@ -135,7 +135,7 @@ DEC-2021
 
 This talk briefly introduces anti-spoofing (audio deepfake detection) and voice privacy. It is mainly for new comers to these fields.
 
-The slide can be found `on dropbox here (PPTX) <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_, `(PDF) <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAANoSBvdc4y16CteakUcF9Ia/web/CCF-talk-2021.pdf>`_.
+The slide can be found `on gdrive <https://drive.google.com/file/d/14SHRTz6KIFAo46hXWkhBRcfn7Srt5SWv/view?usp=drive_link>`__, `(PPT) <https://docs.google.com/presentation/d/1i5NDmiT1bUpjOsDKOUzE8s_t-Kds15gz/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__.
 
 
 .. _label-slide-2021-oct-1:
@@ -149,7 +149,7 @@ This is a talk given at JST Science Agora with Dr. Erica Cooper.
 
 It is an introduction on anti-spoofing (audio deepfake detection).
 
-Here is the part presented by me: `Agora PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAC3cXcoPNA7M8MHB2CAXnY5a/web/Science-Agora-2021_part2.pdf>`_  and `Aogra PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADLL5SEUSZ-fRPGSl_eiYRba/web/Science-Agora-2021_part2.pptx>`_. 
+Here is the part presented by me: `Agora PDF <https://drive.google.com/file/d/1nT7chwCIWfR8iMioonE8kefvWmNJvHcJ/view?usp=drive_link>`__  and `PPT <https://docs.google.com/presentation/d/1nV9E70MpGwIH_Gm2pzhhKnZ_8DbAQKId/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__. 
 
 .. _label-slide-2021-jul-1:
 
@@ -160,7 +160,7 @@ JUL-2021
 
 This is the tutorial on neural vocoders, at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi.
 
-It was a very long tutorial (>3 hours). Slides are `on slideshare <https://www.slideshare.net/jyamagis/advancements-in-neural-vocoders>`_ (I only own part of it).
+It was a very long tutorial (>3 hours). Slides `here <https://drive.google.com/file/d/1LUUddVl7IIQcfC0BzbvMxmWAQcjoDsoT/view?usp=drive_link>`__.
 
 The hands-on materials were re-edited and uploaded to Google Colab. See :ref:`ICASSP 2022 short course: neural vocoder <label-slide-2022-may-1>`.
 
@@ -176,10 +176,9 @@ This is a tutorial on text-to-speech synthesis, at ISCA speaker Odyssey 2020.
 
 It is mainly on sequence-to-sequence TTS acoustic models (both soft- and hard-attention based approaches), but it also covers some basic ideas from the classical HMM-based approaches.
 
-`PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_ are available.
+`PDF <https://drive.google.com/file/d/1NILLI8fDmVp_oZ9DFSNGw1D4E7fZkwjt/view?usp=drive_link>`__ and `PPT slides <https://docs.google.com/presentation/d/1wxvD0bcpJg8QfjFDhEh_G24DQk7B5kW2/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__ are available.
 
-The video is on `youtube <https://youtu.be/WCe7SYcDzAI>`_
-
+The video is on `youtube <https://youtu.be/WCe7SYcDzAI>`__
 
 There many audios samples collected from reference papers' official websites or from open domain data repository.
 
@@ -190,9 +189,7 @@ NOV-2020
 --------
 **Neural vocoders for speech and music signals**
 
-This an invited talk at YAMAHA, with Prof. Yamagishi.
-
-Nothing can be disclosed.
+This an invited talk at YAMAHA, with Prof. Yamagishi. No slides available.
 
 
 .. _label-slide-2020-jul-1:
@@ -218,7 +215,7 @@ Invited talk given at Fraunhofer IIS, Erlangen, Germany.
 
 This is about the neural source-filter vocoders and related experiments done by 2019.
 
-Slide is `here 1 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAByUSX6u4O51bGHpIFlgy-ba/web/201909-FraunhoderIIS-neural-waveform-models.pdf?raw=1>`_
+Slide is `here <https://drive.google.com/file/d/1hsq8gAK_dncEMtQY-04CXTBen4BrQJQ3/view?usp=drive_link>`__ and `here <https://docs.google.com/presentation/d/1j3u4E54guwKlrFEmklVpKm7CWEHOwvzb/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
 
 
 .. _label-slide-2019-jan-1:
@@ -229,7 +226,7 @@ JAN-2019
 
 This is a talk on neural vocoders, but the contents and explanations are based on my knowledge by then. It is out-of-date. Please check tutorials above for my latest understanding.
 
-IEICE Technical Committee on Speech (SP), invited tutorial, Kanazawa, Japan. Slide is `here 2 <https://www.slideshare.net/jyamagis/tutorial-on-endtoend-texttospeech-synthesis-part-1-neural-waveform-modeling>`_
+IEICE Technical Committee on Speech (SP), invited tutorial, Kanazawa, Japan. Slides not available
 
 .. _label-slide-2018-jan-1:
 
@@ -239,33 +236,131 @@ JAN-2018
 
 This is a talk on the previous-generation TTS system. It talks about autoregressive models for F0 prediction.
 
-It was given at Nagoya Institute of Technology, Tokuda lab, and Aalto University, Paavo Alku lab. Slide is `here 3 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AACZVX1Tf9Qw1MUc2YHQKf4Ia/web/20180111-Nagoya-ARmodels.pdf?raw=1>`_
+It was given at Nagoya Institute of Technology, Tokuda lab, and Aalto University, Paavo Alku lab. Slide is `here <https://drive.google.com/file/d/1H31HRmKWN8YfSc5i9Txb2AQnl5IoExZr/view?usp=drive_link>`__
 
+
+.. _label-slide-conf-landing:
 
 Conference presentation
 =======================
 
-Anti-spoofing: Interspeech 2021 presentation for `Comparative study on ASVspoof 2019 LA, PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAbQM0rKGea4t5i5m6rn_F_a/web/2021-interspeech-Fri-M-V-7-1.pdf?raw=1>`_. Codes are available at `git repo project/03-asvspoof-mega <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts>`_
 
-NSF model (latest ver.): Interspeech 2020 presentation for cyclic-noise-NSF -- `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAMoAEj77_oy4FmG0rkCTWwa/web/2020-interspech.pptx?raw=1>`_ and `PDF slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD0BZlZh4TexeLs3VQVY0kJa/web/2020-interspech.pdf?raw=1>`_ . Natural samples are from `CMU-arctic <http://www.festvox.org/cmu_arctic/>`_
+.. _label-slide-asvspoof2024-1:
+
+ASVSPOOF-2024
+-------------
+
+Summary of ASVspoof 5: `PDF <https://www.asvspoof.org/file/ASVspoof_Workshop_2024_Slides.pdf>`__
+
+.. _label-slide-is2024-1:
+
+IS-2024
+-------
+
+Optimal fusion of anti-spoofing and ASV: `PDF <https://drive.google.com/file/d/11IlXr_XCcBB93wxj2pzeQNDLRm4OUfiM/view?usp=drive_link>`__
 
 
-NSF model (2nd ver.): `SSW 2019 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABEVzUUqnJ4QbkxiQcjOhM5a/web/2019-ssw.pdf?raw=1>`_ for paper Neural Harmonic-plus-Noise Waveform Model with Trainable Maximum Voice Frequency for Text-to-Speech Synthesis
+.. _label-slide-icassp2024-1:
+
+ICASSP-2024
+-----------
+
+Anti-spoofing using vocoded data and SSL: `PDF <https://drive.google.com/file/d/1Iwph16smPFXAlCQjUPV2UKObdKe6C0jB/view?usp=drive_link>`__ and `PPT <https://docs.google.com/presentation/d/16Jf5r_1lDcA6EBmi_Mi6sWK5vRoJkjuo/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
 
 
-NSF model (1st ver.): `ICASSP 2019 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AACIlTwfcTeJYNlMBlnZLE52a/web/2019-ICASSP.pdf?raw=1>`_ for paper Neural Source-Filter-Based Waveform Model for Statistical Parametric Speech Synthesis
+.. _label-slide-icassp2023-1:
 
-Speech synthesis comparison: `ICASSP 2018 <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAC8XgykCv9hSChQMgtzAmVSa/web/2018-ICASSP.pdf?raw=1>`_ for paper A Comparison of Recent Waveform Generation and Acoustic Modeling Methods for Neural-Network-Based Speech Synthesis
+ICASSP-2023
+-----------
 
-Deep AR F0 model: `Interspeech 2017 slide <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAA0rZJEq6lQYU98mamyterka/web/2017-interspeech.pdf?raw=1>`_ for paper An RNN-Based Quantized F0 Model with Multi-Tier Feedback Links for Text-to-Speech Synthesis.
- 
-Shallow AR model: `ICASSP 2017 slide <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAA5syHnVZvJrljcOILi5U4ga/web/2017-ICASSP.pdf?raw=1>`_ for paper An Autoregressive Recurrent Mixture Density Network for Parametric Speech Synthesis.
+Anti-spoofing using vocoded data: `PDF <https://drive.google.com/file/d/1OB9zz7ByatNA9KZxrR1ehzf2ZJUcNI-L/view?usp=drive_link>`__
 
-Speech synthesis: `SSW 2016 slide <https://www.dropbox.com/sh/gf3zp00qvdp3row/AACozQp08QjxkmyFEDQlMDZha/web/2016_JVoice.pdf?raw=1>`_ for paper A Comparative Study of the Performance of HMM, DNN, and RNN Based Speech Synthesis Systems Trained on Very Large Speaker-Dependent Corpora.
 
-Prosody embedding: `Interspeech 2016 slide <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDYHrpFe6b8AbjWjqpRuqTa/web/2016-interspeech.pdf?raw=1>`_ for paper Enhance the Word Vector with Prosodic Information for the Recurrent Neural Network Based TTS System.
+.. _label-slide-slt2022-1:
 
-HMM-based speech synthesis: `ICASSP 2016 slide <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADzOxHtpW9V6SpRAGEZMLXTa/web/2016-ICASSP.pdf?raw=1>`_. For paper A Full Training Framework of Cross-Stream Dependence Modelling for HMM-Based Singing Voice Synthesis.
+SLT-2022
+--------
+
+Anti-spoofing using active learning: `PDF <https://drive.google.com/file/d/1t1S1oRJVKcyTBgmLFbBznSb4bHAGBzKE/view?usp=drive_link>`__
+
+.. _label-slide-od2021-1:
+
+ODYSSEY-2022
+------------
+Anti-spoofing using SSL features: `PDF <https://drive.google.com/file/d/1IegE9Q69W4q37VYwRon7umrOUBcQ2O-c/view?usp=drive_link>`__.
+
+.. _label-slide-is2021-1:
+
+IS-2021
+-------
+Anti-spoofing: Interspeech 2021 presentation for Comparative study on ASVspoof 2019 LA `PDF <https://drive.google.com/file/d/1QXqbwgtwIeSz78c4U0C6DVcu-bV9LqWo/view?usp=drive_link>`__. Codes are available at git repo project/03-asvspoof-mega `git: <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts>`__
+
+.. _label-slide-is2020-1:
+
+IS-2020
+-------
+
+NSF model (latest ver.): Interspeech 2020 presentation for cyclic-noise-NSF -- `PPT <https://docs.google.com/presentation/d/1gfA1x3ESQ11bjvdrd197y93mlJmAo-pD/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__ and `PDF slides <https://drive.google.com/file/d/1i5oxGxXZNuWyYe3znTYyo38kK6siGkkh/view?usp=drive_link>`__ . Natural samples are from `CMU-arctic <http://www.festvox.org/cmu_arctic/>`__
+
+
+.. _label-slide-ssw2019-1:
+
+SSW-2019
+--------
+
+NSF model (2nd ver.): `SSW 2019 <https://drive.google.com/file/d/1pueibDGoI5v2wsaC7W2hQSkywYqYoAlf/view?usp=drive_link>`_ for paper Neural Harmonic-plus-Noise Waveform Model with Trainable Maximum Voice Frequency for Text-to-Speech Synthesis
+
+
+.. _label-slide-icassp2019-1:
+
+ICASSP-2019
+-----------
+
+NSF model (1st ver.): `ICASSP 2019 <https://drive.google.com/file/d/1laHPcwbBeWrpYqmvA_yDlfWRgkvIFaxu/view?usp=drive_link>`_ for paper Neural Source-Filter-Based Waveform Model for Statistical Parametric Speech Synthesis
+
+
+.. _label-slide-icassp2018-1:
+
+ICASSP-2018
+-----------
+
+Speech synthesis comparison: `ICASSP 2018 <https://drive.google.com/file/d/1LYu57nKXZTLaCAuVqy-Ym2tO92S2RoOZ/view?usp=drive_link>`_ for paper A Comparison of Recent Waveform Generation and Acoustic Modeling Methods for Neural-Network-Based Speech Synthesis
+
+.. _label-slide-is2017-1:
+
+IS-2017
+-------
+
+Deep AR F0 model: `Interspeech 2017 slide <https://drive.google.com/file/d/1sOicPmH2Gjqk5pF_53kTFkTI-Hq9jBnO/view?usp=drive_link>`_ for paper An RNN-Based Quantized F0 Model with Multi-Tier Feedback Links for Text-to-Speech Synthesis.
+
+.. _label-slide-icassp2017-1:
+
+ICASSP-2017
+-----------
+
+Shallow AR model: `ICASSP 2017 slide <https://drive.google.com/file/d/1MpxLs7WD0J8QL2q-eDRO-IS0CLeULCKN/view?usp=drive_link>`_ for paper An Autoregressive Recurrent Mixture Density Network for Parametric Speech Synthesis.
+
+.. _label-slide-ssw2016-1:
+
+SSW-2016
+--------
+
+Speech synthesis: `SSW 2016 slide <https://drive.google.com/file/d/1wcpkBltIHRtRZndA3EhJHl95QCs4Z1lA/view?usp=drive_link>`_ for paper A Comparative Study of the Performance of HMM, DNN, and RNN Based Speech Synthesis Systems Trained on Very Large Speaker-Dependent Corpora.
+
+.. _label-slide-is2016-1:
+
+IS-2016
+--------
+
+Prosody embedding: `Interspeech 2016 slide <https://drive.google.com/file/d/1NEovmpajAd1tQAFOXizkqCRlvG-TihsQ/view?usp=drive_link>`_ for paper Enhance the Word Vector with Prosodic Information for the Recurrent Neural Network Based TTS System.
+
+
+.. _label-slide-icassp2016-1:
+
+ICASSP-2016
+-----------
+
+HMM-based speech synthesis: `ICASSP 2016 slide <https://drive.google.com/file/d/1yLE4jScXN1EoNG-PyqR2-tOmdqHO9D1P/view?usp=drive_link>`_. For paper A Full Training Framework of Cross-Stream Dependence Modelling for HMM-Based Singing Voice Synthesis.
 
 
 MISC
@@ -274,18 +369,18 @@ MISC
 On CURRENNT toolkit. These slides were made a long time ago during weekends, and they may be sloppy :)
 
 
- * CURRENNT `basics <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABQBuX7Sepgt-1zK49wUTH2a/web/misc-CURRENNT_BASIC.pdf?raw=1>`_ 
+ * CURRENNT `basics <https://drive.google.com/file/d/1t9XqHszPnW-HJbhg96FUSa26Cw3T_7Xt/view?usp=drive_link>`__
 
- * CURRENNT `LSTM explanation <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAASRaMvZkSc29CyZ_WMXWRIa/web/misc-CURRENNT_LSTM.pdf?raw=1>`_
+ * CURRENNT `LSTM explanation <https://drive.google.com/file/d/1yXn5UkaQRkDsca706ETPMnLa1nMA47sn/view?usp=drive_link>`__
 
- * CURRENNT `CNN implementation <https://www.dropbox.com/sh/gf3zp00qvdp3row/AACH1seKkkLfLjEhOsWFr3gSa/web/misc-CURRENNT_CNN.pdf?raw=1>`_
+ * CURRENNT `CNN implementation <https://drive.google.com/file/d/1KJvcQE7JlkU5jFSExbKcv1pJhKoibqRv/view?usp=drive_link>`__
 
- * CURRENNT `mixture density network <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABz4QF9IN5Fa1NlwCrNghJKa/web/misc-CURRENNT_MDN.pdf?raw=1>`_
+ * CURRENNT `mixture density network <https://drive.google.com/file/d/1zJXBGZCluCSx_WsiIePcTo0eHMa80R8c/view?usp=drive_link>`__
 
- * CURRENNT `WaveNet <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAB5Q1Hdm9WBW8IZ6nepSH9xa/web/misc-CURRENNT_WaveNet.pdf?raw=1>`_
+ * CURRENNT `WaveNet <https://drive.google.com/file/d/19Kb1UvtL2MRwjDy6tLCJIsswAsoqAhYh/view?usp=drive_link>`__
 
 
-CURRENNT WaveNet is also explained in `another slide <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAxWSo8bmFTTEi0mmJOPPQ_a/web/2018-SLP-tsukuba.pdf?raw=1>`_ with more figures.
+CURRENNT WaveNet is also explained in `another slide <https://drive.google.com/file/d/1NICBLQpMpZKdyh7CPo_tXeD1_MpejEEP/view?usp=drive_link>`_ with more figures.
 
 
 

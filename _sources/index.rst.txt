@@ -20,8 +20,16 @@ My `Researchmap site <https://researchmap.jp/wangxin?lang=en>`_ and `Google Scho
 Here is my :ref:`label-resume`.
 
 
+
 Messages
 ========
+
+*2024.12.20*
+       ASVspoof 5 database has been released. Check `Download link on zenodo <https://doi.org/10.5281/zenodo.14498691>`__
+
+*2024.08.31*
+       ASVspoof 5 workshop was held at Kos island, Greece. Check the proceeding `on ISCA <https://www.isca-archive.org/asvspoof_2024/index.html>`__
+       
 *2024.04.18*
        `Slides <http://tonywangx.github.io/slide.html#apr-2024>`__ for ICASSP paper: Can Large-Scale Vocoded Spoofed Data Improve Speech Spoofing Countermeasure with a Self-Supervised Front End? 
 
@@ -49,13 +57,12 @@ Messages
 
 *2022.01.04*
 
-        Slides for JST Science Agora talk on speech spoofing detection is available: `Agora PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAC3cXcoPNA7M8MHB2CAXnY5a/web/Science-Agora-2021_part2.pdf>`_  and `Agora PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADLL5SEUSZ-fRPGSl_eiYRba/web/Science-Agora-2021_part2.pptx>`_. There are many spoofing audio samples under various conditions. You can try to detect which one is spoofed. 
+        Slides for JST Science Agora talk on speech spoofing detection is available: :ref:`label-slide-2021-oct-1`. There are many spoofing audio samples under various conditions. You can try to detect which one is spoofed. 
 
        
 *2021.12.04*
 
-       The slides for the talk on speech anti-spoofing and anonymization are uploaded. **Two Speech Security Issues after Speech Synthesis Boom**, 2021 Dec, a talk given at CCF.
-       `download from here <https://www.dropbox.com/sh/gf3zp00qvdp3row/AADDhVJGzMbXEquzf2Z1Y8YHa/web/CCF-talk-2021.pptx>`_.
+       The slides for the talk on speech anti-spoofing and anonymization are uploaded. **Two Speech Security Issues after Speech Synthesis Boom**, 2021 Dec, a talk given at CCF. :ref:`label-slide-2021-dec-1`
 
 
 *2021.09.01*
@@ -90,9 +97,9 @@ Messages
 
        New slides have been uploaded:
        
-       1. Interspeech 2020 presentation for Cyclic-noise NSF: `PPT <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAAMoAEj77_oy4FmG0rkCTWwa/web/2020-interspech.pptx?raw=1>`_ and `PDF slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AAD0BZlZh4TexeLs3VQVY0kJa/web/2020-interspech.pdf?raw=1>`_ 
+       1. Interspeech 2020 presentation for Cyclic-noise NSF: :ref:`label-slide-conf-landing`
 	 
-       2. Odyssey tutorial presentation: `PDF <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABFY0RiorILzSuX1YuQXyA7a/web/Odyssesy2020_Tutorial_TTS_XINWANG.pdf?raw=1>`_ and `PPT slides <https://www.dropbox.com/sh/gf3zp00qvdp3row/AABn3DyzRuZeBJwEGPV1ouFSa/web/Odyssesy2020_Tutorial_TTS_XINWANG.pptx?raw=1>`_
+       2. Odyssey tutorial presentation: :ref:`label-slide-conf-landing`
 
 *2020.08.30* 
 
