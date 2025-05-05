@@ -25,13 +25,15 @@ This is the home page of JST PRESTO project:
 
 **Background**: The era of infodemics calls for a speech data processing system that can detect deepfake voices and anonymize speech privacy. However, existing fake voice detection and anonymization methods are independently designed, lacking joint optimization and theoretical support.
 
-**Core ida**: This proposal tries to unify fake voice detection and voice anonymization within a deep learning framework based on likelihood ratios.
+**Core idea**: This proposal tries to unify fake voice detection and voice anonymization within a deep learning framework based on likelihood ratios.
 
 
 
 
-Outcome
--------
+Outcomes
+--------
+
+* Research paper: see `full list <https://researchmap.jp/wangxin/research_projects/43560514>`__
 
 * Research paper: ASVspoof 5: Crowdsourced Speech Data, Deepfakes, and Adversarial Attacks at Scale
   

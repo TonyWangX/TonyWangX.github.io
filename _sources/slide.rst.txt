@@ -29,56 +29,32 @@ SEP-24-2024
 SEP-2024
 --------
 
-**Interspeech 2024 presentation**: Revisiting score fusion for spoofing-aware speaker verification
-
-* Paper: https://www.isca-archive.org/interspeech_2024/wang24l_interspeech.html
-* Slides: `PDF <https://drive.google.com/file/d/11IlXr_XCcBB93wxj2pzeQNDLRm4OUfiM/view?usp=drive_link>`__ and `PDF <https://docs.google.com/presentation/d/1AdZbCSCShn4njkFKq6BGUD6tZlDakf9w/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
-* Github: https://github.com/nii-yamagishilab/SpeechSPC-mini
-
-
 **Interspeech 2024 survey talk**: Current trend in speech privacy and security
 
 * Slides (privacy part): `PDF <https://drive.google.com/file/d/1I71v6arn0Q5unMzfVJxlcRjsrf9vpKyY/view?usp=drive_link>`__
 
-
-.. _label-slide-2024-apr-1:
-
-APR-2024
---------
-
-**ICASSP 2024 presentation**: Can Large-Scale Vocoded Spoofed Data Improve Speech Spoofing Countermeasure with a Self-Supervised Front End?
-
-Using large-scale spoofed data to updated SSL front end of speech anti-spoofing model.
-
-* Paper: https://ieeexplore.ieee.org/document/10446331
-* Slides: `PDF <https://drive.google.com/file/d/1Iwph16smPFXAlCQjUPV2UKObdKe6C0jB/view?usp=drive_link>`__ and `PPT <https://docs.google.com/presentation/d/16Jf5r_1lDcA6EBmi_Mi6sWK5vRoJkjuo/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
 
 .. _label-slide-2023-nov-1:
 
 NOV-2023
 --------
 
-**VoicePersonae workshop talk 2: Harnessing data to improve speech spoofing countermeasures**
+**VoicePersonae workshop talk 2**: Harnessing data to improve speech spoofing countermeasures
 
-High-level summary of the talk to use vocoded data to train speech anti-spoofing models.
+High-level summary of the talk to use vocoded data to train speech anti-spoofing models. Slides can be downloaded here `gdrive <https://drive.google.com/file/d/1UlDah9mXE2FehJMAaXsKzC2ZfkYbWR6H/view?usp=drive_link>`__.
 
-Slides can be downloaded here `gdrive <https://drive.google.com/file/d/1UlDah9mXE2FehJMAaXsKzC2ZfkYbWR6H/view?usp=drive_link>`__.
+**VoicePersonae workshop talk 1**: DNN+DSP waveform model
 
-**VoicePersonae workshop talk 1: DNN+DSP waveform model**
+An overview talk given at VoicePersonae workshop. The title is From DSP and DNN to DNN/DSP: Neural speech waveform models and its applications in speech and music audio waveform modelling. Slides can be downloaded here `gdrive <https://drive.google.com/file/d/1v8wI3gik4QEs40NGautZrlmS8xNbMm-l/view?usp=drive_link>`__.
 
-An overview talk given at VoicePersonae workshop. The title is From DSP and DNN to DNN/DSP: Neural speech waveform models and its applications in speech and music audio waveform modelling.
-
-Slides can be downloaded here `gdrive <https://drive.google.com/file/d/1v8wI3gik4QEs40NGautZrlmS8xNbMm-l/view?usp=drive_link>`__.
 
 .. _label-slide-2023-oct-31:
 
 OCT-2023
 --------
-**Shonan Seminar: casual presentation**
+**Shonan Seminar**
 
-During the No.182 Shonan Seminar  https://shonan.nii.ac.jp/seminars/182/, I had chance to introduce voice privacy.
-
-Slides are available on `gdrive <https://drive.google.com/file/d/115k8GzxBQiGB8E8x3zDmiI0qW7eoX4iw/view?usp=drive_link>`__.
+During the No.182 Shonan Seminar  https://shonan.nii.ac.jp/seminars/182/, I had chance to introduce voice privacy. Slides are available on `gdrive <https://drive.google.com/file/d/115k8GzxBQiGB8E8x3zDmiI0qW7eoX4iw/view?usp=drive_link>`__.
 
 .. _label-slide-2023-aug-1:
 
@@ -96,7 +72,7 @@ MAR-2023
 --------
 **SPSC Webinar: using vocoders to create spoofed data for speech spoofing countermeasures**
 
-for `ICASSP 2023 paper <https://arxiv.org/abs/2210.10570>`__ "Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocoders".  
+Based on `ICASSP 2023 paper <https://arxiv.org/abs/2210.10570>`__ Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocoders.  
 
 Slides `in PDF <https://drive.google.com/file/d/1vRKyMRLvb_WbOn-n5mbQbvW7tKIbdSxl/view?usp=drive_link>`__ and `PPTX <https://docs.google.com/presentation/d/1D5Qw7qFTIV27Wu3prTsaac3zsCgU8Bp6/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
 
@@ -121,9 +97,9 @@ MAY-2022
 
 **ICASSP 2022 short course: neural vocoder**
 
-This talk briefly summarizes a few representative neural vocoders. For a more detailed talk, please check :ref:`the slide for Advancement in Neural Vocoders <label-slide-2021-jul-1>`.
+This talk summarizes a few representative neural vocoders. For a more detailed talk, please check :ref:`the slide for Advancement in Neural Vocoders <label-slide-2021-jul-1>`.
 
-The hands-on materials used for this short course cover a few latest neural vocoders. There are step-to-step instructions on implementation, demonstration with pre-trained models, and detailed explanation on some common DSP and deep learning techniques. Please check `Google Colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`__. 
+The hands-on materials cover a few latest neural vocoders. There are step-to-step instructions on implementation, demonstration with pre-trained models, and detailed explanation on some common DSP and deep learning techniques. Please check `Google Colab <https://colab.research.google.com/drive/1EO-ggi1U9f2zXwTiqg7AEljVx11JKta7>`__. 
 
 
 .. _label-slide-2021-dec-1:
@@ -133,7 +109,7 @@ DEC-2021
 
 **Two Speech Security Issues after Speech Synthesis Boom**
 
-This talk briefly introduces anti-spoofing (audio deepfake detection) and voice privacy. It is mainly for new comers to these fields.
+This talk introduces anti-spoofing (audio deepfake detection) and voice privacy. It is mainly for new comers to these fields.
 
 The slide can be found `on gdrive <https://drive.google.com/file/d/14SHRTz6KIFAo46hXWkhBRcfn7Srt5SWv/view?usp=drive_link>`__, `(PPT) <https://docs.google.com/presentation/d/1i5NDmiT1bUpjOsDKOUzE8s_t-Kds15gz/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__.
 
@@ -145,11 +121,9 @@ OCT-2021
 
 **DeepFake: high-tech illusions to deceive human brains**
 
-This is a talk given at JST Science Agora with Dr. Erica Cooper.
+This is a talk given at JST Science Agora with Dr. Erica Cooper. It is an introduction on anti-spoofing (audio deepfake detection).
 
-It is an introduction on anti-spoofing (audio deepfake detection).
-
-Here is the part presented by me: `Agora PDF <https://drive.google.com/file/d/1nT7chwCIWfR8iMioonE8kefvWmNJvHcJ/view?usp=drive_link>`__  and `PPT <https://docs.google.com/presentation/d/1nV9E70MpGwIH_Gm2pzhhKnZ_8DbAQKId/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__. 
+Slides: `Agora PDF <https://drive.google.com/file/d/1nT7chwCIWfR8iMioonE8kefvWmNJvHcJ/view?usp=drive_link>`__  and `PPT <https://docs.google.com/presentation/d/1nV9E70MpGwIH_Gm2pzhhKnZ_8DbAQKId/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__. 
 
 .. _label-slide-2021-jul-1:
 
@@ -158,9 +132,7 @@ JUL-2021
 
 **Advancement in Neural Vocoders**
 
-This is the tutorial on neural vocoders, at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi.
-
-It was a very long tutorial (>3 hours). Slides `here <https://drive.google.com/file/d/1LUUddVl7IIQcfC0BzbvMxmWAQcjoDsoT/view?usp=drive_link>`__.
+This is the tutorial on neural vocoders, at ISCA 2021 Speech Processing Courses in Crete, with Prof. Yamagishi. It was a very long tutorial (>3 hours). Slides `here <https://drive.google.com/file/d/1LUUddVl7IIQcfC0BzbvMxmWAQcjoDsoT/view?usp=drive_link>`__.
 
 The hands-on materials were re-edited and uploaded to Google Colab. See :ref:`ICASSP 2022 short course: neural vocoder <label-slide-2022-may-1>`.
 
@@ -172,16 +144,11 @@ DEC-2020
 
 **Tutorial on Neural statistical parametric speech synthesis**
 
-This is a tutorial on text-to-speech synthesis, at ISCA speaker Odyssey 2020.
-
-It is mainly on sequence-to-sequence TTS acoustic models (both soft- and hard-attention based approaches), but it also covers some basic ideas from the classical HMM-based approaches.
+This is a tutorial on text-to-speech synthesis, at ISCA speaker Odyssey 2020. It is mainly on sequence-to-sequence TTS acoustic models (both soft- and hard-attention based approaches), but it also covers some basic ideas from the classical HMM-based approaches.
 
 `PDF <https://drive.google.com/file/d/1NILLI8fDmVp_oZ9DFSNGw1D4E7fZkwjt/view?usp=drive_link>`__ and `PPT slides <https://docs.google.com/presentation/d/1wxvD0bcpJg8QfjFDhEh_G24DQk7B5kW2/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__ are available.
 
-The video is on `youtube <https://youtu.be/WCe7SYcDzAI>`__
-
-There many audios samples collected from reference papers' official websites or from open domain data repository.
-
+The video is on `youtube <https://youtu.be/WCe7SYcDzAI>`__. There many audios samples collected from reference papers' official websites or from open domain data repository.
 
 .. _label-slide-2020-nov-1:
 
@@ -191,8 +158,8 @@ NOV-2020
 
 This an invited talk at YAMAHA, with Prof. Yamagishi. No slides available.
 
-
 .. _label-slide-2020-jul-1:
+
 
 JUL-2020
 --------
@@ -244,7 +211,6 @@ It was given at Nagoya Institute of Technology, Tokuda lab, and Aalto University
 Conference presentation
 =======================
 
-
 .. _label-slide-asvspoof2024-1:
 
 ASVSPOOF-2024
@@ -252,12 +218,17 @@ ASVSPOOF-2024
 
 Summary of ASVspoof 5: `PDF <https://www.asvspoof.org/file/ASVspoof_Workshop_2024_Slides.pdf>`__
 
+
 .. _label-slide-is2024-1:
 
 IS-2024
 -------
 
-Optimal fusion of anti-spoofing and ASV: `PDF <https://drive.google.com/file/d/11IlXr_XCcBB93wxj2pzeQNDLRm4OUfiM/view?usp=drive_link>`__
+Revisiting score fusion for spoofing-aware speaker verification
+
+* Paper: https://www.isca-archive.org/interspeech_2024/wang24l_interspeech.html
+* Slides: `PDF <https://drive.google.com/file/d/11IlXr_XCcBB93wxj2pzeQNDLRm4OUfiM/view?usp=drive_link>`__ and `PDF <https://docs.google.com/presentation/d/1AdZbCSCShn4njkFKq6BGUD6tZlDakf9w/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
+* Github: https://github.com/nii-yamagishilab/SpeechSPC-mini
 
 
 .. _label-slide-icassp2024-1:
@@ -265,8 +236,10 @@ Optimal fusion of anti-spoofing and ASV: `PDF <https://drive.google.com/file/d/1
 ICASSP-2024
 -----------
 
-Anti-spoofing using vocoded data and SSL: `PDF <https://drive.google.com/file/d/1Iwph16smPFXAlCQjUPV2UKObdKe6C0jB/view?usp=drive_link>`__ and `PPT <https://docs.google.com/presentation/d/16Jf5r_1lDcA6EBmi_Mi6sWK5vRoJkjuo/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
+Can Large-Scale Vocoded Spoofed Data Improve Speech Spoofing Countermeasure with a Self-Supervised Front End?
 
+* Paper: https://ieeexplore.ieee.org/document/10446331
+* Slides: `PDF <https://drive.google.com/file/d/1Iwph16smPFXAlCQjUPV2UKObdKe6C0jB/view?usp=drive_link>`__ and `PPT <https://docs.google.com/presentation/d/16Jf5r_1lDcA6EBmi_Mi6sWK5vRoJkjuo/edit?usp=drive_link&ouid=110003331173621958152&rtpof=true&sd=true>`__
 
 .. _label-slide-icassp2023-1:
 
@@ -377,7 +350,7 @@ On CURRENNT toolkit. These slides were made a long time ago during weekends, and
 
  * CURRENNT `mixture density network <https://drive.google.com/file/d/1zJXBGZCluCSx_WsiIePcTo0eHMa80R8c/view?usp=drive_link>`__
 
- * CURRENNT `WaveNet <https://drive.google.com/file/d/19Kb1UvtL2MRwjDy6tLCJIsswAsoqAhYh/view?usp=drive_link>`__
+ * CURRENNT CUDA implementation of `WaveNet <https://drive.google.com/file/d/19Kb1UvtL2MRwjDy6tLCJIsswAsoqAhYh/view?usp=drive_link>`__
 
 
 CURRENNT WaveNet is also explained in `another slide <https://drive.google.com/file/d/1NICBLQpMpZKdyh7CPo_tXeD1_MpejEEP/view?usp=drive_link>`_ with more figures.

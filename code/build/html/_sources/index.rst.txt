@@ -8,22 +8,59 @@ Welcome
 
 .. figure:: pic/20_wan_photo.jpg
   :align: right
-  :height: 150
+  :height: 200
 
   
-I am Xin Wang, a postdoc researcher at Yamagishi Lab, National Institute of Informatics (`NII <https://www.nii.ac.jp/>`_), Japan. 
+I am Xin Wang, a postdoc researcher at `Yamagishi Lab <https://yamagishilab.jp/>`__, National Institute of Informatics (`NII <https://www.nii.ac.jp/>`__), Japan. I learned a lot from my supervisors at NII and USTC and many colleagues around the world.
 
-I am studying speech processing and machine learning, and I learned a lot from my supervisors at NII and USTC and many colleagues around the world.
+My research interests include
 
-My `Researchmap site <https://researchmap.jp/wangxin?lang=en>`_ and `Google Scholar page <https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en>`_. Researchmap is the official website for researchers in Japan.
+* Speech information processing
+  
+* Speech synthesis
+  
+* Speech deepfake detection & anonymization
 
-Here is my :ref:`label-resume`.
+See more in my :ref:`label-resume`.
+
+.. raw:: html
+
+   <div style="text-align: left;">
+     <a href="https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en" target="_blank" style="text-decoration: none;">
+       <img src="_static/icon1.png" alt="Scholar" style="width:30px;">
+     </a>&nbsp;&nbsp;
+     <a href="https://researchmap.jp/wangxin?lang=en" target="_blank" style="text-decoration: none;">
+       <img src="_static/icon2.png" alt="Scholar" style="width:30px;">
+     </a>&nbsp;&nbsp;
+     <a href="https://tonywangx.github.io" target="_blank" style="text-decoration: none;">
+       <img src="_static/icon3.png" alt="Scholar" style="width:30px;">
+     </a>
+   </div>
 
 
 
-Messages
-========
+.. I am studying speech processing and machine learning, and I learned a lot from my supervisors at NII and USTC and many colleagues around the world.
 
+.. My `Researchmap site <https://researchmap.jp/wangxin?lang=en>`_ and `Google Scholar page <>`_. Researchmap is the official website for researchers in Japan.
+
+
+.. Contact
+.. =======
+.. Please send email to wangxin ~a~t~ nii dot ac dot jp. 
+
+
+.. Messages
+.. ========
+
+Messages:
+
+*2025.04*
+       Please join us at the ASRU 2025 special session on `Frontiers in Deepfake Voice Detection and Beyond <https://sites.google.com/view/deepfake-voice>`__
+
+       Work done with Xiaoxiao is accepted by IEEE Trans. Information Forensics and Security: `A benchmark for multi-speaker anonymization <https://doi.org/10.1109/TIFS.2025.3556345>`__
+
+       Work done with Wanying is accepted by ICLR2025 workshop on Watermark: `Proactive Detection of Speaker Identity Manipulation with Neural Watermarking <https://openreview.net/forum?id=erXPKrUsoD>`__
+       
 *2024.12.20*
        ASVspoof 5 database has been released. Check `Download link on zenodo <https://doi.org/10.5281/zenodo.14498691>`__
 
@@ -119,10 +156,6 @@ Messages
 
        Pytorch re-implementation of NSF models is available: https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts
 
-
-Contact
-=======
-Please send email to wangxin ~a~t~ nii dot ac dot jp. 
 
 .. toctree::
    :hidden:

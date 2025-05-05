@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'HomePage-WangXin'
-copyright = '2020, WangXin'
+project = 'Home-page-WangXin'
+copyright = '2025, WangXin'
 author = 'WangXin'
 
 # The full version, including alpha/beta/rc tags
@@ -55,3 +55,7 @@ html_sidebars = {'**':['localtoc.html', 'globaltoc.html', 'searchbox.html']}
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['sub_static']
+
+html_theme_options = {
+    'font_size': '20px',
+}

@@ -8,61 +8,88 @@
 Resume
 ******
 
-Here is the `resume in PDF <https://drive.google.com/file/d/1IeLqq8J7taZqxe1gxURI1z7XbSyhThKt/view?usp=drive_link>`__.
+.. Here is the `resume in PDF <https://drive.google.com/file/d/1IeLqq8J7taZqxe1gxURI1z7XbSyhThKt/view?usp=drive_link>`__.
 
-My `Google Scholar page <https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en>`__ and `Researchmap site <https://researchmap.jp/wangxin?lang=en>`__.
+.. raw:: html
+
+   <div style="text-align: left;">
+     <a href="https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en" target="_blank" style="text-decoration: none;">
+       <img src="_static/icon1.png" alt="Scholar" style="width:30px;">
+     </a>&nbsp;&nbsp;
+     <a href="https://researchmap.jp/wangxin?lang=en" target="_blank" style="text-decoration: none;">
+       <img src="_static/icon2.png" alt="Scholar" style="width:30px;">
+     </a>&nbsp;&nbsp;
+     <a href="https://tonywangx.github.io" target="_blank" style="text-decoration: none;">
+       <img src="_static/icon3.png" alt="Scholar" style="width:30px;">
+     </a>
+   </div>
+
+.. My `Google Scholar page <https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en>`__ and `Researchmap site <https://researchmap.jp/wangxin?lang=en>`__.
 
 
-Basic info
-==========
 
-**Xin Wang** 
+**Xin Wang (王鑫)** 
 
-Project Associate Professor, JST PRESTO researcher (salary funded by JST)
+Project Associate Professor & JST PRESTO researcher
 
-National Institute of Informatics 
-
-2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan 
+@National Institute of Informatics, 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan 
 
 
 Education
 =========
 
-Ph.D: 2015 - 2018 National Institute of Informatics, SOKENDAI, Tokyo, Japan.
+**Ph.D**: 2015 - 2018, SOKENDAI/NII, Tokyo, Japan.
 
    Fundamental frequency modeling for neural-betwork-based statistical parametric speech synthesis
 
    Supervisor: Prof. Junichi Yamagishi
 
-   * Thesis (submitted 2018-06-29): `PDF version <https://drive.google.com/file/d/10rnN4ViMIswV5IO-Of0uZrAFubb5ZoKy/view?usp=drive_link>`__
+   Thesis committee: Prof. Keiichi Tokuda, Prof. Nobuaki Minematsu, Prof. Isao Echizen, Prof. Yusuke Miyao
 
-   * Slides for thesis defense: `defense slides <https://drive.google.com/file/d/1IXIbLBKfzAAZb1nzCdJd-KF2aL1H_7D0/view?usp=drive_link>`__
+   * Thesis (submitted 2018-06-29): `PDF <https://drive.google.com/file/d/10rnN4ViMIswV5IO-Of0uZrAFubb5ZoKy/view?usp=drive_link>`__
+
+   * Slides of `pubic defense <https://drive.google.com/file/d/1IXIbLBKfzAAZb1nzCdJd-KF2aL1H_7D0/view?usp=drive_link>`__
 
    * Appendix: `highway network <https://drive.google.com/file/d/1MTcyHh7C10VAYmJ6JiIeyET1HIfgfsqX/view?usp=drive_link>`__, `SAR <https://drive.google.com/file/d/1Eb4G6WIIEI7C3vb0i3KT0Ci6N2hCD_St/view?usp=drive_link>`__, `DAR <https://drive.google.com/file/d/1wvmXgML1OYx9fBIJbgwKA4L5hvB11Y34/view?usp=drive_link>`__, `VQ-VAE <https://drive.google.com/file/d/1204PsYURNpPIurhdtJbgzEEelgfeXqHA/view?usp=drive_link>`__ 
 
 
-M.Sc.: 2012 - 2015 University of Science and Technology of China, Hefei, China.
+**M.Sc.**: 2012 - 2015, University of Science and Technology of China, Hefei, China.
     
-   Bi-directional optimization for concept-to-speech synthesis
+   Bi-directional optimization for concept-to-speech synthesis (in Chinese)
 
    Supervisor: Prof. Zhen-Hua Ling
 
-B.Sc.: 2008 - 2012 University of Electronic Science and Technology of China, Chengdu, China.
+   Related `English paper <https://doi.org/10.1016/j.csl.2015.12.003>`__
+   
+**B.Sc.**: 2008 - 2012, University of Electronic Science and Technology of China, Chengdu, China.
 
+   Cross-stream dependency modeling for HMM-based statistical parametric speech synthesis (in Chinese)
+   
+   Supervisor: Prof. Zhen-Hua Ling (done at USTC)
+
+   Related `English paper <https://doi.org/10.1109/ICASSP.2016.7472662>`__
+
+   
 Academic activity
 =================
 
 Organizer
 
  * `ASVspoof5 <https://www.asvspoof.org/>`__, ASVspoof challenges 2024, 2021, 2019
- * `Voice Privacy Challenge <https://www.voiceprivacychallenge.org>`__ 2024, 2022, 2020 
+ * `Voice Privacy Challenge <https://www.voiceprivacychallenge.org>`__ 2024, 2022, 2020
+ * ASRU 2025 special session on `Deepfake detection <https://2025.ieeeasru.org/program/special-sessions>`__
+ * Interspeech 2025 special session on `source tracing of synthetic speech <https://deepfake-total.com/sourcetracing>`__
  * APSIPA ASC 2019 special session on `Deep Generative Models for Media Clones and Its Detection <http://apsipa2019.org/SpecialSessions.html>`__
- * ISCA Interspeech 2019 special session on `Automatic Speaker Verification Spoofing and Countermeasures Challenge 2019 (ASVSpoof 2019) <https://www.interspeech2019.org/program/special_sessions_and_challenges>`__
- * IEEE ASRU 2019 special session on `ASVspoof 2019 <http://asru2019.org/wp/?page_id=622>`__
+ * ISCA Interspeech 2019 special session on `ASVspoof <https://www.interspeech2019.org/program/special_sessions_and_challenges>`__
+ * IEEE ASRU 2019 special session on `ASVspoof <http://asru2019.org/wp/?page_id=622>`__
 
 Guest editor
 
  * Computer Speech and Language `Special issue on Advances in Automatic Speaker Verification Anti-spoofing <https://www.journals.elsevier.com/computer-speech-and-language/call-for-papers/advances-in-automatic-speaker>`__
+
+Session chair
+
+ * Interspeech 2024, ICASSP 2023, `ACM MM 2022 DDAM Workshop <https://dl.acm.org/doi/proceedings/10.1145/3552466>`_, `ASVspoof workshop 2021 <https://www.isca-speech.org/archive/asvspoof_2021/index.html>`_, Interspeech 2021, SSW 2019.
 
 Reviewer
 
@@ -72,16 +99,13 @@ Reviewer
 
  * IEICE Trans on Information and Systems
 
- * EUSIPCO, BIOSIG
+ * EUSIPCO, BIOSIG, COLING-LREC 2024 (meta-reviewer)
 
-Session chair
-
- * Interspeech 2024, ICASSP 2023, `ACM MM 2022 DDAM Workshop <https://dl.acm.org/doi/proceedings/10.1145/3552466>`_, `ASVspoof workshop 2021 <https://www.isca-speech.org/archive/asvspoof_2021/index.html>`_, Interspeech 2021, SSW 2019.
 
  
 Grants
 ======
-* 2023 - 2027, **JST, PRESTO**: Unified framework for speech privacy protection and anti-spoofing. PI: Xin Wang.
+* 2023 - 2027, **JST, PRESTO (JPMJPR23P9)**: Unified framework for speech privacy protection and anti-spoofing. PI: Xin Wang.
 
 * 2021 - 2023, **JSPS, Wakate (21K17775)**: Speech privacy protection by high-quality, invertible, and extendable speech anonymization and de-anonymization. PI: Xin Wang.
 
@@ -93,13 +117,16 @@ Grants
   
 * 2021 - 2022, **Google Research Grant**: Optimizing a Speech Anti-spoofing Database. PI:: Junichi Yamagishi. Collaborator: Xin Wang, Eric Cooper.
   
-* 2019 - 2020, **Google AI Focused Research Awards Program in Japa**: Robust and all-purpose neural source-filter models. PI: Junichi Yamagishi. Collaborator: Xin Wang, Eric Cooper.
+* 2019 - 2020, **Google AI Focused Research Awards Program in Japan**: Robust and all-purpose neural source-filter models. PI: Junichi Yamagishi. Collaborator: Xin Wang, Eric Cooper.
 
 
 Publication
 ===========
 
-   **synthesis**
+Journal papers
+--------------
+
+   **Speech synthesis**
 
 #. **Xin Wang**, Shinji Takaki, Junichi Yamagishi, Simon King and Keiichi Tokuda. A Vector Quantized Variational Autoencoder (VQ-VAE) Autoregressive Neural F0 Model for Statistical Parametric Speech Synthesis. IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol: 28, pages 157-170. doi: 10.1109/TASLP.2019.2950099. 2020. 
 #. **Xin Wang**, Shinji Takaki and Junichi Yamagishi. Neural Source-Filter Waveform Models for Statistical Parametric Speech Synthesis. IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol: 28, pages 402-415. doi: 10.1109/TASLP.2019.2956145. 2020. 
@@ -112,9 +139,10 @@ Publication
 #. Shuhei Kato, Yusuke Yasuda, **Xin Wang**, Erica Cooper, Shinji Takaki and Junichi Yamagishi. Modeling of Rakugo Speech and Its Limitations: Toward Speech Synthesis That Entertains Audiences. IEEE Access, vol: 8, pages 138149-138161. doi: 10.1109/ACCESS.2020.3011975. 2020. 
 
 
-   **antispoofing**
+   **Antispoofing & deepfake detection**
 
-#. **Xin Wang**, Junichi Yamagishi, Massimiliano Todisco, H{\'{e}}ctor Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, S{\'{e}}bastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, Quan Wang, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Fran{\c{c}}ois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang and Zhen-Hua Ling. ASVspoof 2019: A large-scale public database of synthesized, converted and replayed speech. Computer Speech \& Language, vol: 64, pages 101114. doi: 10.1016/j.csl.2020.101114. 2020. 
+#. **Xin Wang**, Junichi Yamagishi, Massimiliano Todisco, H{\'{e}}ctor Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, S{\'{e}}bastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, Quan Wang, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Fran{\c{c}}ois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang and Zhen-Hua Ling. ASVspoof 2019: A large-scale public database of synthesized, converted and replayed speech. Computer Speech \& Language, vol: 64, pages 101114. doi: 10.1016/j.csl.2020.101114. 2020.
+#. Jee-weon Jung, Yihan Wu, **Xin Wang**, Ji-Hoon Kim, Soumi Maiti, Yuta Matsunaga, Hye-jin Shim, Jinchuan Tian, Nicholas Evans, Joon Son Chung, Wangyou Zhang, Seyun Um, Shinnosuke Takamichi, and Shinji Watanabe. 2025. SpoofCeleb: Speech Deepfake Detection and SASV In The Wild. IEEE Open Journal of Signal Processing (2025). 
 #. Chang Zeng, Xiaoxiao Miao, **Xin Wang**, Erica Cooper and Junichi Yamagishi. Joint Speaker Encoder and Neural Back-End Model for Fully End-to-End Automatic Speaker Verification with Multiple Enrollment Utterances. Computer Speech \& Language, vol: 86, doi: 10.1016/j.csl.2024.101619. 2024. 
 #. Xuechen Liu, **Xin Wang**, Md Sahidullah, Jose Patino, H{\'{e}}ctor Delgado, Tomi Kinnunen, Massimiliano Todisco, Junichi Yamagishi, Nicholas Evans, Andreas Nautsch and Kong Aik Lee. ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild. IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol: 31, pages 2507-2522. doi: 10.1109/TASLP.2023.3285283. 2023. 
 #. Lin Zhang, **Xin Wang**, Erica Cooper, Nicholas Evans and Junichi Yamagishi. The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance. IEEE/ACM Transactions on Audio, Speech, and Language Processing, pages 1-13. doi: 10.1109/TASLP.2022.3233236. 2022. 
@@ -122,8 +150,9 @@ Publication
 #. Tomi Kinnunen, Hector Delgado, Nicholas Evans, Kong Aik Lee, Ville Vestman, Andreas Nautsch, Massimiliano Todisco, **Xin Wang**, Md Sahidullah, Junichi Yamagishi and Douglas A Reynolds. Tandem Assessment of Spoofing Countermeasures and Automatic Speaker Verification: Fundamentals. IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol: 28, pages 2195-2210. doi: 10.1109/TASLP.2020.3009494. 2020. 
 
 
-   **anonymization**
-
+   **Speech anonymization**
+   
+#. Xiaoxiao Miao, Ruijie Tao, Chang Zeng, and **Xin Wang**. A Benchmark for Multi-speaker Anonymization. IEEE Trans.Inform.Forensic Secur. doi: 10.1109/TIFS.2025.3556345. 2025
 #. Michele Panariello, Natalia Tomashenko, **Xin Wang**, Xiaoxiao Miao, Pierre Champion, Hubert Nourtel, Massimiliano Todisco, Nicholas Evans, Emmanuel Vincent and Junichi Yamagishi. The VoicePrivacy 2022 Challenge: Progress and Perspectives in Voice Anonymisation. IEEE/ACM Transactions on Audio, Speech, and Language Processing, pages 1-14. doi: 10.1109/TASLP.2024.3430530. 2024. 
 #. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi and Natalia Tomashenko. Speaker Anonymization Using Orthogonal Householder Neural Network. IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol: 31, pages 3681-3695. doi: 10.1109/TASLP.2023.3313429. 2023. 
 #. Natalia Tomashenko, **Xin Wang**, Emmanuel Vincent, Jose Patino, Brij Mohan Lal Srivastava, Paul-Gauthier No{\'{e}}, Andreas Nautsch, Nicholas Evans, Junichi Yamagishi, Benjamin O'Brien, Ana{\"{i}}s Chanclu, Jean-Fran{\c{c}}ois Bonastre, Massimiliano Todisco and Mohamed Maouche. The VoicePrivacy 2020 Challenge: Results and findings. Computer Speech \& Language, pages 101362. doi: https://doi.org/10.1016/j.csl.2022.101362. 2022. 
@@ -142,7 +171,7 @@ Book chapters
 Conference papers
 -----------------
 
-   **synthesis**
+   **Speech synthesis**
 
 #. **Xin Wang** and Junichi Yamagishi. Using Cyclic Noise as the Source Signal for Neural Source-Filter-Based Speech Waveform Model. Proc. Interspeech, pages 1992-1996. doi: 10.21437/Interspeech.2020-1018. 2020. 
 #. **Xin Wang**, Shinji Takaki and Junichi Yamagishi. Neural Source-filter-based Waveform Model for Statistical Parametric Speech Synthesis. Proc. ICASSP, pages 5916-5920. doi: 10.1109/ICASSP.2019.8682298. 2019. 
@@ -181,7 +210,7 @@ Conference papers
 #. Lauri Juvela, **Xin Wang**, Shinji Takaki, Manu Airaksinen, Junichi Yamagishi and Paavo Alku. Using text and acoustic features in predicting glottal excitation waveforms for parametric speech synthesis with recurrent neural networks. Proc. Interspeech, pages 2283-2287. 2016. 
 
 
-   **antispoofing**
+   **Speech antispoofing & deepfake detection**
 
 #. **Xin Wang**, H{\'e}ctor Delgado, Hemlata Tak, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi Kinnunen, Nicholas Evans, Kong Aik Lee and Junichi Yamagishi. ASVspoof 5: Crowdsourced Speech Data, Deepfakes, and Adversarial Attacks at Scale. ASVspoof Workshop 2024, pages 1-8. 2024. 
 #. **Xin Wang**, Tomi Kinnunen, Lee Kong Aik, Paul-Gauthier Noe and Junichi Yamagishi. Revisiting and Improving Scoring Fusion for Spoofing-aware Speaker Verification Using Compositional Data Analysis. Proc. Interspeech, pages 1110-1114. 2024. 
@@ -190,11 +219,14 @@ Conference papers
 #. **Xin Wang** and Junichi Yamagishi. Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocoders. Proc. ICASSP, pages . 2023. 
 #. **Xin Wang** and Junichi Yamagishi. Estimating the Confidence of Speech Spoofing Countermeasure. Proc. ICASSP, pages 6372-6376. doi: 10.1109/ICASSP43922.2022.9746204. 2022. 
 #. **Xin Wang** and Junichi Yamagishi. Investigating Self-Supervised Front Ends for Speech Spoofing Countermeasures. Proc. Odyssey, pages 100-106. doi: 10.21437/Odyssey.2022-14. 2022. 
-#. **Xin Wang** and Junichi Yamagishi. A comparative study on recent neural spoofing countermeasures for synthetic speech detection. Proc. Interspeech, pages 4259-4263. doi: 10.21437/Interspeech.2021-702. 2021. 
+#. **Xin Wang** and Junichi Yamagishi. A comparative study on recent neural spoofing countermeasures for synthetic speech detection. Proc. Interspeech, pages 4259-4263. doi: 10.21437/Interspeech.2021-702. 2021.
+#. Wanying Ge, **Xin Wang**, and Junichi Yamagishi. 2025. Proactive detection of speaker identity manipulation with neural watermarking. In The 1st workshop on GenAI watermarking, 2025.
+#. Lauri Juvela and **Xin Wang**. Audio codec augmentation for robust collaborative watermarking of speech synthesis. In Proc. ICASSP, 2025. https://doi.org/10.1109/ICASSP49660.2025.10888976
 #. Massimiliano Todisco, H{\'e}ctor Delgado, Lee Kong Aik, Nicholas Evans, Michele Panariello and **Xin Wang**. Malacopula: Adversarial Automatic Speaker Verification Attacks Using a Neural-Based Generalised Hammerstein Model. ASVspoof Workshop 2024, pages 94-100. 2024. 
 #. Tomi Kinnunen, Rosa Gonzalez Hautamaki, **Xin Wang** and Junichi Yamagishi. Speaker Detection by the Individual Listener and the Crowd: Parametric Models Applicable to Bonafide and Deepfake Speech. Proc. Interspeech, pages 3654-3658. doi: 10.21437/Interspeech.2024-1704. 2024. 
 #. Jee-weon Jung, **Xin Wang**, Nicholas Evans, Shinji Watanabe, Hye-jin Shim, Hemlata Tak, Sidhhant Arora, Junichi Yamagishi and Joon Son Chung. To What Extent Can ASV Systems Naturally Defend against Spoofing Attacks?. Proc. Interspeech, pages 3240-3244. 2024. 
 #. Lin Zhang, **Xin Wang**, Erica Cooper, Mireia Diez,  L, Federico ini, Nicholas Evans and Junichi Yamagishi. Spoof Diarization: "What Spoofed When" in Partially Spoofed Audio. Proc. Interspeech, pages 502-506. 2024. 
+#. Wanying Ge, **Xin Wang**, Junichi Yamagishi, Massimiliano Todisco and Nicholas Evans. Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?. Proc. ICASSP, pages 12531-12535. 2024.
 #. Lauri Juvela and **Xin Wang**. Collaborative Watermarking for Adversarial Speech Synthesis. Proc. ICASSP, pages 11231-11235. 2024. 
 #. Sung Hwan Mun, Hye-jin Shim, Hemlata Tak, **Xin Wang**, Xuechen Liu, Md Sahidullah, Myeonghun Jeong, Min Hyun Han, Massimiliano Todisco, Kong Aik Lee, Junichi Yamagishi, Nicholas Evans, Tomi Kinnunen, Nam Soo Kim and Jee-weon Jung. Towards Single Integrated Spoofing-aware Speaker Verification Embeddings. Proc. Interspeech, pages 3989-3993. doi: 10.21437/Interspeech.2023-1402. 2023. 
 #. Chang Zeng, **Xin Wang**, Xiaoxiao Miao, Erica Cooper and Junichi Yamagishi. Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms. Proc. Interspeech, pages 1998-2002. doi: 10.21437/Interspeech.2023-125. 2023. 
@@ -207,9 +239,9 @@ Conference papers
 #. Massimiliano Todisco, **Xin Wang**, Ville Vestman, Md. Sahidullah, H{\'{e}}ctor Delgado, Andreas Nautsch, Junichi Yamagishi, Nicholas Evans, Tomi H Kinnunen and Kong Aik Lee. ASVspoof 2019: future horizons in spoofed and fake audio detection. Proc. Interspeech, pages 1008-1012. doi: 10.21437/Interspeech.2019-2249. 2019. 
 
 
-   **anonymization**
+   **Speech anonymization**
 
-#. Wanying Ge, **Xin Wang**, Junichi Yamagishi, Massimiliano Todisco and Nicholas Evans. Spoofing Attack Augmentation: Can Differently-Trained Attack Models Improve Generalisation?. Proc. ICASSP, pages 12531-12535. 2024. 
+
 #. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi, Nicholas Evans, Massimiliano Todisco, Jean-Fran{\c c}ois Bonastre and Mickael Rouvier. SynVox2: Towards a Privacy-Friendly VoxCeleb2 Dataset. Proc. ICASSP, pages 11421-11425. 2024. 
 #. Paul-Gauthier Noe, Xiaoxiao Miao, **Xin Wang**, Junichi Yamagishi, Jean-Francois Bonastre and Driss Matrouf. Hiding Speaker's Sex in Speech Using Zero-Evidence Speaker Representation in an Analysis/Synthesis Pipeline. Proc. ICASSP, pages . 2023. 
 #. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi and Natalia Tomashenko. Language-Independent Speaker Anonymization Approach Using Self-Supervised Pre-Trained Models. , pages 279-286. doi: 10.21437/Odyssey.2022-39. 2022. 
@@ -220,8 +252,9 @@ Conference papers
 #. Fuming Fang, **Xin Wang**, Junichi Yamagishi, Isao Echizen, Massimiliano Todisco, Nicholas Evans and Jean-Francois Bonastre. Speaker anonymization using X-vector and neural waveform models. Proc. SSW, pages 155-160. doi: 10.21437/SSW.2019-28. 2019. 
 
 
-   **other**
-
+   **Other topics**
+#. Jingjing Tang, Erica Cooper, **Xin Wang**, Junichi Yamagishi, and George Fazekas. 2025. Towards an integrated approach for expressive piano performance synthesis from music scores. In Proc. ICASSP, 2025.
+#. Nicolas Jonason, **Xin Wang**, Erica Cooper, Lauri Juvela, Bob L. T. Sturm, and Junichi Yamagishi. 2024. DDSP-based neural waveform synthesis of polyphonic guitar performance from string-wise MIDI input. In Proc. DAFX, 2024.
 #. Chang Zeng, **Xin Wang**, Erica Cooper, Xiaoxiao Miao and Junichi Yamagishi. Attention Back-end for Automatic Speaker Verification with Multiple Enrollment Utterances. Proc. ICASSP, pages (accepted). 2022. 
 #. Chen-Chou Lo, Szu-Wei Fu, Wen-Chin Huang, **Xin Wang**, Junichi Yamagishi, Yu Tsao and Hsin-Min Wang. MOSnet: deep learning-based objective assessment for voice conversion. Proc. Interspeech, pages 1541-1545. doi: 10.21437/Interspeech.2019-2003. 2019. 
 #. Cassia Valentini-Botinhao, **Xin Wang**, Shinji Takaki and Junichi Yamagishi. Investigating RNN-based speech enhancement methods for noise-robust text-to-speech. Proc. SSW, pages 146-152. 2016. 
