@@ -64,6 +64,8 @@ Messages:
 *2024.12.20*
        ASVspoof 5 database has been released. Check `Download link on zenodo <https://doi.org/10.5281/zenodo.14498691>`__
 
+       (added 2025.06) ASVspoof 5 data paper has been accepted by `CSL <https://doi.org/10.1016/j.csl.2025.101825>`__
+
 *2024.08.31*
        ASVspoof 5 workshop was held at Kos island, Greece. Check the proceeding `on ISCA <https://www.isca-archive.org/asvspoof_2024/index.html>`__
        

@@ -141,6 +141,8 @@ Journal papers
 
    **Antispoofing & deepfake detection**
 
+#. **Xin Wang**, Héctor Delgado, Hemlata Tak, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi, Myeonghun Jeong, Ge Zhu, Yongyi Zang, Soumi Maiti, Florian Lux, Nicolas Müller, Wangyou Zhang, Chengzhe Sun, Shuwei Hou, Siwei Lyu, Sébastien Le Maguer, Cheng Gong, Hanjie Guo, Liping Chen, and Vishwanath Singh. 2025. ASVspoof 5: Design, collection and validation of public resources for spoofing, deepfake, and adversarial attack detection using crowdsourced speech. Computer Speech & Language (2025). doi.org/doi.org/10.1016/j.csl.2025.101825
+
 #. **Xin Wang**, Junichi Yamagishi, Massimiliano Todisco, H{\'{e}}ctor Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, S{\'{e}}bastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, Quan Wang, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Fran{\c{c}}ois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang and Zhen-Hua Ling. ASVspoof 2019: A large-scale public database of synthesized, converted and replayed speech. Computer Speech \& Language, vol: 64, pages 101114. doi: 10.1016/j.csl.2020.101114. 2020.
 #. Jee-weon Jung, Yihan Wu, **Xin Wang**, Ji-Hoon Kim, Soumi Maiti, Yuta Matsunaga, Hye-jin Shim, Jinchuan Tian, Nicholas Evans, Joon Son Chung, Wangyou Zhang, Seyun Um, Shinnosuke Takamichi, and Shinji Watanabe. 2025. SpoofCeleb: Speech Deepfake Detection and SASV In The Wild. IEEE Open Journal of Signal Processing (2025). 
 #. Chang Zeng, Xiaoxiao Miao, **Xin Wang**, Erica Cooper and Junichi Yamagishi. Joint Speaker Encoder and Neural Back-End Model for Fully End-to-End Automatic Speaker Verification with Multiple Enrollment Utterances. Computer Speech \& Language, vol: 86, doi: 10.1016/j.csl.2024.101619. 2024. 
@@ -151,7 +153,7 @@ Journal papers
 
 
    **Speech anonymization**
-   
+#. Xiaoxiao Miao, Yuxiang Zhang, **Xin Wang**, Natalia Tomashenko, Donny Cheng Lock Soh, and Ian Mcloughlin. 2025. Adapting general disentanglement-based speaker anonymization for enhanced emotion preservation. Computer Speech & Language 94, (November 2025), 101810. doi.org/10.1016/j.csl.2025.101810
 #. Xiaoxiao Miao, Ruijie Tao, Chang Zeng, and **Xin Wang**. A Benchmark for Multi-speaker Anonymization. IEEE Trans.Inform.Forensic Secur. doi: 10.1109/TIFS.2025.3556345. 2025
 #. Michele Panariello, Natalia Tomashenko, **Xin Wang**, Xiaoxiao Miao, Pierre Champion, Hubert Nourtel, Massimiliano Todisco, Nicholas Evans, Emmanuel Vincent and Junichi Yamagishi. The VoicePrivacy 2022 Challenge: Progress and Perspectives in Voice Anonymisation. IEEE/ACM Transactions on Audio, Speech, and Language Processing, pages 1-14. doi: 10.1109/TASLP.2024.3430530. 2024. 
 #. Xiaoxiao Miao, **Xin Wang**, Erica Cooper, Junichi Yamagishi and Natalia Tomashenko. Speaker Anonymization Using Orthogonal Householder Neural Network. IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol: 31, pages 3681-3695. doi: 10.1109/TASLP.2023.3313429. 2023. 
@@ -253,6 +255,7 @@ Conference papers
 
 
    **Other topics**
+#. Jingjing Tang, **Xin Wang**, Zhe Zhang, Junichi Yamagishd, and Fazekas George. 2025. MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling. In Proc. ISMIR, 2025.
 #. Jingjing Tang, Erica Cooper, **Xin Wang**, Junichi Yamagishi, and George Fazekas. 2025. Towards an integrated approach for expressive piano performance synthesis from music scores. In Proc. ICASSP, 2025.
 #. Nicolas Jonason, **Xin Wang**, Erica Cooper, Lauri Juvela, Bob L. T. Sturm, and Junichi Yamagishi. 2024. DDSP-based neural waveform synthesis of polyphonic guitar performance from string-wise MIDI input. In Proc. DAFX, 2024.
 #. Chang Zeng, **Xin Wang**, Erica Cooper, Xiaoxiao Miao and Junichi Yamagishi. Attention Back-end for Automatic Speaker Verification with Multiple Enrollment Utterances. Proc. ICASSP, pages (accepted). 2022. 
