@@ -35,6 +35,16 @@ Outcomes
 
 * Research paper: see `full list <https://researchmap.jp/wangxin/research_projects/43560514>`__
 
+* Panel talk: voice anonymization and watermarking
+
+  * Venue: APSIPA ASC 2025
+
+  * Date: 2025/10
+
+  * Place: Singapore
+
+  * Slide: :ref:`label-slide-2025-oct-1`.
+ 
 * Research paper: ASVspoof 5: Crowdsourced Speech Data, Deepfakes, and Adversarial Attacks at Scale
   
   * Venue: Interspeech 2024

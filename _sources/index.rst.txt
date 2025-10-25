@@ -34,7 +34,10 @@ See more in my :ref:`label-resume`.
      </a>&nbsp;&nbsp;
      <a href="https://tonywangx.github.io" target="_blank" style="text-decoration: none;">
        <img src="_static/icon3.png" alt="Scholar" style="width:30px;">
-     </a>
+     </a>&nbsp;&nbsp;
+     <a href="https://www.linkedin.com/in/xin-wang-227200259" target="_blank" style="text-decoration: none;">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Linkedin-png-linkedin-icon-1600.png" alt="Scholar" style="width:33px;">
+     </a>     
    </div>
 
 
@@ -53,6 +56,9 @@ See more in my :ref:`label-resume`.
 .. ========
 
 Messages:
+
+*2025.10*
+        I joined the panel discussion on deepfake detection, anonymization, and watermark at the APSIPA ASC 2025. My slides are `here <http://tonywangx.github.io/slide.html#oct-22-2025>`__
 
 *2025.04*
        Please join us at the ASRU 2025 special session on `Frontiers in Deepfake Voice Detection and Beyond <https://sites.google.com/view/deepfake-voice>`__

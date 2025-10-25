@@ -13,6 +13,16 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+.. _label-slide-2025-oct-1:
+
+OCT-22-2025
+-----------
+
+**APSIPA ASC 2025 Panel**: Perspectives on watermark & anonymization
+
+* Slides (gdrive): `PDF <https://drive.google.com/file/d/184lrPhd5n8fCLMmmjzxAmbbbPB_ds8uu/view?usp=sharing>`__ and `PPT <https://docs.google.com/presentation/d/1BnY5kMPB8rpu7Ov3yElU2gUH-TwlVJ38/edit?usp=sharing&ouid=110003331173621958152&rtpof=true&sd=true>`__
+* `Paper <https://arxiv.org/abs/2509.06361>`__
+
 
 .. _label-slide-2024-sep-2:
 

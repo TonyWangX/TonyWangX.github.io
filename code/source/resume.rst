@@ -22,10 +22,12 @@ Resume
      <a href="https://tonywangx.github.io" target="_blank" style="text-decoration: none;">
        <img src="_static/icon3.png" alt="Scholar" style="width:30px;">
      </a>
+     <a href="https://www.linkedin.com/in/xin-wang-227200259" target="_blank" style="text-decoration: none;">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Linkedin-png-linkedin-icon-1600.png" alt="Scholar" style="width:30px;">
+     </a>
    </div>
 
 .. My `Google Scholar page <https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en>`__ and `Researchmap site <https://researchmap.jp/wangxin?lang=en>`__.
-
 
 
 **Xin Wang (王鑫)** 
@@ -83,13 +85,14 @@ Organizer
  * ISCA Interspeech 2019 special session on `ASVspoof <https://www.interspeech2019.org/program/special_sessions_and_challenges>`__
  * IEEE ASRU 2019 special session on `ASVspoof <http://asru2019.org/wp/?page_id=622>`__
 
-Guest editor
+Editor
 
- * Computer Speech and Language `Special issue on Advances in Automatic Speaker Verification Anti-spoofing <https://www.journals.elsevier.com/computer-speech-and-language/call-for-papers/advances-in-automatic-speaker>`__
+ * Associate editor: IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM) (from 2025-11)
+ * Guest editor: Computer Speech and Language `Special issue on Advances in Automatic Speaker Verification Anti-spoofing <https://www.journals.elsevier.com/computer-speech-and-language/call-for-papers/advances-in-automatic-speaker>`__
 
 Session chair
 
- * Interspeech 2024, ICASSP 2023, `ACM MM 2022 DDAM Workshop <https://dl.acm.org/doi/proceedings/10.1145/3552466>`_, `ASVspoof workshop 2021 <https://www.isca-speech.org/archive/asvspoof_2021/index.html>`_, Interspeech 2021, SSW 2019.
+ * Interspeech 2024, ICASSP 2023, `ACM MM 2022 DDAM Workshop <https://dl.acm.org/doi/proceedings/10.1145/3552466>`_, `ASVspoof workshop 2021 <https://www.isca-speech.org/archive/asvspoof_2021/index.html>`_, Interspeech 2021, SSW 2019, APSIPA 2025
 
 Reviewer
 
