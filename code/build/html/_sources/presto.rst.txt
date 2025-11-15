@@ -35,6 +35,16 @@ Outcomes
 
 * Research paper: see `full list <https://researchmap.jp/wangxin/research_projects/43560514>`__
 
+* Invited talk: Advances in Voice Deepfake Generation and Detection
+
+  * Venue: European Association for Biometrics, Workshop on Voice Deepfakes and Adversarial Attacks Detection: Advances and Perspectives
+
+  * Date: 2025/11
+
+  * Place: online
+
+  * Slide: :ref:`label-slide-2025-nov-1`.
+
 * Panel talk: voice anonymization and watermarking
 
   * Venue: APSIPA ASC 2025

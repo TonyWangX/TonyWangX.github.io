@@ -57,6 +57,9 @@ See more in my :ref:`label-resume`.
 
 Messages:
 
+*2025.11*
+        I gave a talk at the EAB workshop and briefly summarized the advances in deepfake generation and detection. My slides are `here <http://tonywangx.github.io/slide.html#nov-13-2025>`__
+	
 *2025.10*
         I joined the panel discussion on deepfake detection, anonymization, and watermark at the APSIPA ASC 2025. My slides are `here <http://tonywangx.github.io/slide.html#oct-22-2025>`__
 

@@ -13,6 +13,17 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+.. _label-slide-2025-nov-1:
+
+NOV-13-2025
+-----------
+
+**European Association of Biometrics workshop on Deepfake**: Advances in voice deepfake generation and detection
+
+* A brief summary of the voice generation and deepfake detection history.
+* Slides (gdrive): `PDF <https://drive.google.com/file/d/1U8E4dM8RGtUuHrrzPbrmwgsQH5iIZQ5k/view?usp=sharing>`__ and `PPT <https://docs.google.com/presentation/d/1--mLW0iU2940-W5jq1a1_93wyI0Y6Gl6/edit?usp=sharing&ouid=110003331173621958152&rtpof=true&sd=true>`__
+
+
 .. _label-slide-2025-oct-1:
 
 OCT-22-2025
