@@ -13,6 +13,16 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+.. _label-slide-2025-dec-1:
+
+DEC-22-2025
+-----------
+**Speech synthesis, its security issues, and countermeasures**: 音声合成技術とその安全利用に向けて
+
+* A lecture delivered at Nagoya Institute of Technology
+* Slides (gdrive): `PDF <https://drive.google.com/file/d/1uexukxPRprmWA59Oe3ckssgjP-IucFSh/view?usp=sharing>`__ and `PPT <https://docs.google.com/presentation/d/1RzPa7lnjBZdwSrYZuUOhK53yfdali27W/edit?usp=sharing&ouid=110003331173621958152&rtpof=true&sd=true>`__
+
+
 .. _label-slide-2025-nov-1:
 
 NOV-13-2025
