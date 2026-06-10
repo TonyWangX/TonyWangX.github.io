@@ -13,6 +13,19 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+.. _label-slide-2026-jun-1:
+
+JUN-10-2026
+-----------
+**Progress of Speech Generative AI and countermeasures against Speech Deepfake**:
+
+* A invited talk at Muroran Institute of Technology
+
+  * An improved version of the lecture given at Nagoya Institute of Technology.
+  * It describes the text-to-speech, anti-spoofing, and watermark at a high level. It summarizes the basics, and some of the recent research trends.
+  * It may be useful for new comers who want to know the fields quickly.
+* Slides (drive): `PDF <https://drive.google.com/file/d/1XeH-TRX4V3SHULw0c8esLjsIBhzNCOQy/view?usp=sharing>`__ and `PPT <https://docs.google.com/presentation/d/12MMcQOctDHb1SeXOl2_0cwmFYTIcGsgl/edit?usp=sharing&ouid=110003331173621958152&rtpof=true&sd=true>`__ It is recommended to check the audio and videos in the PPT file. 
+
 .. _label-slide-2025-dec-1:
 
 DEC-22-2025
@@ -20,6 +33,7 @@ DEC-22-2025
 **Speech synthesis, its security issues, and countermeasures**: 音声合成技術とその安全利用に向けて
 
 * A lecture delivered at Nagoya Institute of Technology
+* It describes the text-to-speech, anti-spoofing, and watermark at a high level. 
 * Slides (gdrive): `PDF <https://drive.google.com/file/d/1uexukxPRprmWA59Oe3ckssgjP-IucFSh/view?usp=sharing>`__ and `PPT <https://docs.google.com/presentation/d/1RzPa7lnjBZdwSrYZuUOhK53yfdali27W/edit?usp=sharing&ouid=110003331173621958152&rtpof=true&sd=true>`__
 
 

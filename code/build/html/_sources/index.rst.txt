@@ -57,6 +57,10 @@ See more in my :ref:`label-resume`.
 
 Messages:
 
+*2026.06*
+        I talked about speech synthesis and anti-spoofing at Muroran Institute of Technology. The slides are  `here <http://tonywangx.github.io/slide.html#jun-10-2026>`__
+
+	
 *2025.11*
         I gave a talk at the EAB workshop and briefly summarized the advances in deepfake generation and detection. My slides are `here <http://tonywangx.github.io/slide.html#nov-13-2025>`__
 	
