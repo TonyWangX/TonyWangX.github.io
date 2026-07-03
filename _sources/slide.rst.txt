@@ -13,6 +13,19 @@ In most cases, I cannot directly share audio samples. Some samples can be found 
 Talk
 ============
 
+.. _label-slide-2026-jul-5:
+
+JUL-05-2026
+-----------
+**On Evaluation Metrics of Speech Deepfake Detection – Lessons Learned from ASVSpoof**:
+
+* A invited talk at ESDD 2 grand challenge session of ICME 2026
+  
+  * It explains the discrimination and calibration using the DCF curve 
+  * It shows how some top ASVspoof5 systems are not calibration-aware
+  * Slides (drive): `PDF <https://drive.google.com/file/d/1FYaPgpPxNahJ49ukxkAvAgFaIjRW0uZ4/view?usp=sharing>`__ and `PPT <https://docs.google.com/presentation/d/1VXZUQKl3peg8RxqHxKM4fOecbp_xYdTg/edit?usp=sharing&ouid=110003331173621958152&rtpof=true&sd=true>`__ 
+  * A `Jupyter notebook <https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts/blob/master/tutorials/b2_anti_spoofing/chapter_a3_EER_and_calibration.ipynb>`__ demonstrates the results
+
 .. _label-slide-2026-jun-1:
 
 JUN-10-2026
