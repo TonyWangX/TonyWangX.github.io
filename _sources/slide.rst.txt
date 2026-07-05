@@ -19,7 +19,7 @@ JUL-05-2026
 -----------
 **On Evaluation Metrics of Speech Deepfake Detection – Lessons Learned from ASVSpoof**:
 
-* A invited talk at ESDD 2 grand challenge session of ICME 2026
+* A talk at ESDD 2 grand challenge session of ICME 2026
   
   * It explains the discrimination and calibration using the DCF curve 
   * It shows how some top ASVspoof5 systems are not calibration-aware
@@ -32,7 +32,7 @@ JUN-10-2026
 -----------
 **Progress of Speech Generative AI and countermeasures against Speech Deepfake**:
 
-* A invited talk at Muroran Institute of Technology
+* A talk at Muroran Institute of Technology
 
   * An improved version of the lecture given at Nagoya Institute of Technology.
   * It describes the text-to-speech, anti-spoofing, and watermark at a high level. It summarizes the basics, and some of the recent research trends.
